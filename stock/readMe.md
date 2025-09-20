@@ -32,3 +32,4 @@ http://api.mairui.club/hscp/gdbh/600769/b997d4403688d5e66a
 最新分时MACD
 http://api.mairui.club/zs/macd/sh600769/dn/b997d4403688d5e66a
 
+[//]: # (todo 下一步  再搞社保基金 持股统计、盈亏、持仓、排序、图形化)

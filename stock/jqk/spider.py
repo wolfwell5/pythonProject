@@ -109,7 +109,7 @@ def parseHoldInfo(hold_info_html):
 
 def main():
     # getAllStockList(basicUrl)
-    # todo 1. get all stock code, save in DB
+    # 1. get all stock code, save in DB
     # 2. fetch from DB, use stock code to get all holder info
     # fetchAllStockCodes()
     # hold_info = fetchHoldInfo(688692)
