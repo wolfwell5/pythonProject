@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 from pathlib import Path
 
+
 # absolute_path = 'E:/Develop/Repos/pythonProject/stock/akShare/sample_data/'
 
 
@@ -25,9 +26,9 @@ def generate_file_name(core_word) -> str:
     # 转换为字符串
     # base_path_str = str(akshare_base_path)
 
-    fetched_data_path=f'{akshare_base_path}/sample_data/'
+    fetched_data_path = f'{akshare_base_path}/sample_data/'
     # file_name, ext = os.path.splitext(os.path.basename(class_name))
-    parent_dir=os.path.basename(os.path.dirname(class_name))
+    parent_dir = os.path.basename(os.path.dirname(class_name))
     # file_parent_folder_name = os.path.basename(os.path.dirname(class_name))
     # folder_path = f'{fetched_data_path}{parent_dir}/{file_name}'
     folder_path = f'{fetched_data_path}{parent_dir}/'
