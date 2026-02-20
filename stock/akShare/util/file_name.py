@@ -14,14 +14,13 @@ def get_caller_filename_absolute_path():
     return file_path
 
 
-def generate_file_name(core_word) -> str:
+def generate_file_name(core_word, specific_folder) -> str:
     class_name = get_caller_filename_absolute_path()
     path_obj = Path(class_name)
     # E:\Develop\Repos\pythonProject\stock\akShare\十大流通股东
     akshare_base_path = path_obj.parent
 
-    fetched_data_path = f'{akshare_base_path}/sample_data/'
-    folder_path = f'{fetched_data_path}/'
+    folder_path = f'{akshare_base_path}/{specific_folder}/'
     file_name = f'{datetime.now().strftime("%Y-%m-%d-%H-%M")}_{core_word}.csv'
 
     # 检查目录是否存在，如果不存在则创建
