@@ -33,8 +33,14 @@ def random_wait():
     time.sleep(wait_time)
 
 
-def long_random_wait():
+def medium_random_wait():
     wait_time = random.uniform(30, 60)
+    print(f"⏳ 开始前等待 {wait_time:.0f} 秒...")
+    time.sleep(wait_time)
+
+
+def long_random_wait():
+    wait_time = random.uniform(60, 120)
     print(f"⏳ 开始前等待 {wait_time:.0f} 秒...")
     time.sleep(wait_time)
 
