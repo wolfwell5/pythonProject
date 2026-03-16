@@ -29,11 +29,14 @@ def generate_quarter_report_dates(start_year, end_year):
 
 
 def random_wait():
-    print('开始等待...')
-    wait_time = random.uniform(3, 10)  # 随机等待 3~10 秒
-    print(f"等待 {wait_time:.1f} 秒后继续...")
+    wait_time = random.uniform(5, 8)
     time.sleep(wait_time)
-    print(f"等待 end.")
+
+
+def long_random_wait():
+    wait_time = random.uniform(30, 60)
+    print(f"⏳ 开始前等待 {wait_time:.0f} 秒...")
+    time.sleep(wait_time)
 
 
 def main():
