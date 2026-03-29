@@ -1,7 +1,3 @@
-import random
-import time
-
-
 def gen_year_period_list(start_year, end_year):
     years = []
     for year in range(start_year, end_year):
@@ -28,26 +24,8 @@ def generate_quarter_report_dates(start_year, end_year):
     return quarter_dates
 
 
-def random_wait():
-    wait_time = random.uniform(5, 8)
-    time.sleep(wait_time)
-
-
-def medium_random_wait():
-    wait_time = random.uniform(30, 60)
-    print(f"⏳ 开始前等待 {wait_time:.0f} 秒...")
-    time.sleep(wait_time)
-
-
-def long_random_wait():
-    wait_time = random.uniform(60, 120)
-    print(f"⏳ 开始前等待 {wait_time:.0f} 秒...")
-    time.sleep(wait_time)
-
-
 def main():
     print('开始 执行...')
-    random_wait()
 
 
 if __name__ == "__main__":

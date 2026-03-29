@@ -20,7 +20,12 @@ def generate_file_name(core_word, specific_folder) -> str:
     # E:\Develop\Repos\pythonProject\stock\akShare\十大流通股东
     akshare_base_path = path_obj.parent
 
-    folder_path = f'{akshare_base_path}/{specific_folder}/'
+    # 如果 specific_folder 是绝对路径，直接使用；否则相对路径拼接
+    if os.path.isabs(specific_folder):
+        folder_path = specific_folder
+    else:
+        folder_path = f'{akshare_base_path}/{specific_folder}/'
+    
     file_name = f'{datetime.now().strftime("%Y-%m-%d-%H-%M")}_{core_word}.csv'
 
     # 检查目录是否存在，如果不存在则创建
