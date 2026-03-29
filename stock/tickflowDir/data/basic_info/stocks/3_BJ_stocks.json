@@ -1,0 +1,5073 @@
+{
+  "exchange": "BJ",
+  "count": 299,
+  "real_count": 298,
+  "data": [
+    {
+      "symbol": "920000.BJ",
+      "exchange": "BJ",
+      "code": "920000",
+      "name": "安徽凤凰",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-12-23",
+        "total_shares": 91680000.0,
+        "float_shares": 57593925.0,
+        "tick_size": 0.01,
+        "limit_up": 23.15,
+        "limit_down": 12.47
+      }
+    },
+    {
+      "symbol": "920001.BJ",
+      "exchange": "BJ",
+      "code": "920001",
+      "name": "纬达光电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-27",
+        "total_shares": 153656204.0,
+        "float_shares": 88691020.0,
+        "tick_size": 0.01,
+        "limit_up": 27.32,
+        "limit_down": 14.72
+      }
+    },
+    {
+      "symbol": "920002.BJ",
+      "exchange": "BJ",
+      "code": "920002",
+      "name": "万达轴承",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-05-30",
+        "total_shares": 45502968.0,
+        "float_shares": 31855109.0,
+        "tick_size": 0.01,
+        "limit_up": 120.52,
+        "limit_down": 64.9
+      }
+    },
+    {
+      "symbol": "920003.BJ",
+      "exchange": "BJ",
+      "code": "920003",
+      "name": "中诚咨询",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-11-07",
+        "total_shares": 64714286.0,
+        "float_shares": 13314586.0,
+        "tick_size": 0.01,
+        "limit_up": 39.42,
+        "limit_down": 21.24
+      }
+    },
+    {
+      "symbol": "920005.BJ",
+      "exchange": "BJ",
+      "code": "920005",
+      "name": "鼎佳精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-07-31",
+        "total_shares": 83000000.0,
+        "float_shares": 21500000.0,
+        "tick_size": 0.01,
+        "limit_up": 51.18,
+        "limit_down": 27.56
+      }
+    },
+    {
+      "symbol": "920006.BJ",
+      "exchange": "BJ",
+      "code": "920006",
+      "name": "晟楠科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-18",
+        "total_shares": 90287200.0,
+        "float_shares": 47797112.0,
+        "tick_size": 0.01,
+        "limit_up": 33.38,
+        "limit_down": 17.98
+      }
+    },
+    {
+      "symbol": "920007.BJ",
+      "exchange": "BJ",
+      "code": "920007",
+      "name": "酉立智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-08-08",
+        "total_shares": 44432450.0,
+        "float_shares": 10642850.0,
+        "tick_size": 0.01,
+        "limit_up": 87.33,
+        "limit_down": 47.03
+      }
+    },
+    {
+      "symbol": "920008.BJ",
+      "exchange": "BJ",
+      "code": "920008",
+      "name": "成电光信",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-08-29",
+        "total_shares": 63750000.0,
+        "float_shares": 33598721.0,
+        "tick_size": 0.01,
+        "limit_up": 39.35,
+        "limit_down": 21.19
+      }
+    },
+    {
+      "symbol": "920009.BJ",
+      "exchange": "BJ",
+      "code": "920009",
+      "name": "丹娜生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-11-03",
+        "total_shares": 55390000.0,
+        "float_shares": 7200000.0,
+        "tick_size": 0.01,
+        "limit_up": 98.28,
+        "limit_down": 52.92
+      }
+    },
+    {
+      "symbol": "920010.BJ",
+      "exchange": "BJ",
+      "code": "920010",
+      "name": "凯添燃气",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 234500000.0,
+        "float_shares": 173497853.0,
+        "tick_size": 0.01,
+        "limit_up": 17.13,
+        "limit_down": 9.23
+      }
+    },
+    {
+      "symbol": "920014.BJ",
+      "exchange": "BJ",
+      "code": "920014",
+      "name": "特瑞斯",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-13",
+        "total_shares": 121856743.0,
+        "float_shares": 67047298.0,
+        "tick_size": 0.01,
+        "limit_up": 20.9,
+        "limit_down": 11.26
+      }
+    },
+    {
+      "symbol": "920015.BJ",
+      "exchange": "BJ",
+      "code": "920015",
+      "name": "锦华新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-09-25",
+        "total_shares": 135566667.0,
+        "float_shares": 37745313.0,
+        "tick_size": 0.01,
+        "limit_up": 59.15,
+        "limit_down": 31.85
+      }
+    },
+    {
+      "symbol": "920016.BJ",
+      "exchange": "BJ",
+      "code": "920016",
+      "name": "中草香料",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-09-13",
+        "total_shares": 76981929.0,
+        "float_shares": 34237218.0,
+        "tick_size": 0.01,
+        "limit_up": 25.15,
+        "limit_down": 13.55
+      }
+    },
+    {
+      "symbol": "920017.BJ",
+      "exchange": "BJ",
+      "code": "920017",
+      "name": "星昊医药",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-31",
+        "total_shares": 124832280.0,
+        "float_shares": 123509680.0,
+        "tick_size": 0.01,
+        "limit_up": 23.34,
+        "limit_down": 12.58
+      }
+    },
+    {
+      "symbol": "920018.BJ",
+      "exchange": "BJ",
+      "code": "920018",
+      "name": "宏远股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-08-20",
+        "total_shares": 127329564.0,
+        "float_shares": 44223800.0,
+        "tick_size": 0.01,
+        "limit_up": 41.34,
+        "limit_down": 22.26
+      }
+    },
+    {
+      "symbol": "920019.BJ",
+      "exchange": "BJ",
+      "code": "920019",
+      "name": "铜冠矿建",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-10-11",
+        "total_shares": 210266700.0,
+        "float_shares": 167535666.0,
+        "tick_size": 0.01,
+        "limit_up": 26.59,
+        "limit_down": 14.33
+      }
+    },
+    {
+      "symbol": "920020.BJ",
+      "exchange": "BJ",
+      "code": "920020",
+      "name": "泰凯英",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-10-28",
+        "total_shares": 224945000.0,
+        "float_shares": 55100901.0,
+        "tick_size": 0.01,
+        "limit_up": 22.07,
+        "limit_down": 11.89
+      }
+    },
+    {
+      "symbol": "920021.BJ",
+      "exchange": "BJ",
+      "code": "920021",
+      "name": "流金科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 308999983.0,
+        "float_shares": 247554673.0,
+        "tick_size": 0.01,
+        "limit_up": 13.18,
+        "limit_down": 7.1
+      }
+    },
+    {
+      "symbol": "920022.BJ",
+      "exchange": "BJ",
+      "code": "920022",
+      "name": "世昌股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-09-19",
+        "total_shares": 60321000.0,
+        "float_shares": 16615000.0,
+        "tick_size": 0.01,
+        "limit_up": 37.42,
+        "limit_down": 20.16
+      }
+    },
+    {
+      "symbol": "920023.BJ",
+      "exchange": "BJ",
+      "code": "920023",
+      "name": "田野股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-02",
+        "total_shares": 327304000.0,
+        "float_shares": 268808530.0,
+        "tick_size": 0.01,
+        "limit_up": 5.49,
+        "limit_down": 2.97
+      }
+    },
+    {
+      "symbol": "920026.BJ",
+      "exchange": "BJ",
+      "code": "920026",
+      "name": "卓兆点胶",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-10-19",
+        "total_shares": 82077246.0,
+        "float_shares": 37214620.0,
+        "tick_size": 0.01,
+        "limit_up": 46.02,
+        "limit_down": 24.78
+      }
+    },
+    {
+      "symbol": "920027.BJ",
+      "exchange": "BJ",
+      "code": "920027",
+      "name": "交大铁发",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-06-10",
+        "total_shares": 79203500.0,
+        "float_shares": 42203500.0,
+        "tick_size": 0.01,
+        "limit_up": 26.59,
+        "limit_down": 14.33
+      }
+    },
+    {
+      "symbol": "920029.BJ",
+      "exchange": "BJ",
+      "code": "920029",
+      "name": "开发科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-03-28",
+        "total_shares": 138886667.0,
+        "float_shares": 38486667.0,
+        "tick_size": 0.01,
+        "limit_up": 111.54,
+        "limit_down": 60.06
+      }
+    },
+    {
+      "symbol": "920030.BJ",
+      "exchange": "BJ",
+      "code": "920030",
+      "name": "德众汽车",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-11-27",
+        "total_shares": 178839681.0,
+        "float_shares": 112031157.0,
+        "tick_size": 0.01,
+        "limit_up": 8.2,
+        "limit_down": 4.42
+      }
+    },
+    {
+      "symbol": "920033.BJ",
+      "exchange": "BJ",
+      "code": "920033",
+      "name": "康普化学",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-21",
+        "total_shares": 119135250.0,
+        "float_shares": 82760958.0,
+        "tick_size": 0.01,
+        "limit_up": 21.71,
+        "limit_down": 11.69
+      }
+    },
+    {
+      "symbol": "920035.BJ",
+      "exchange": "BJ",
+      "code": "920035",
+      "name": "精创电气",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-12-02",
+        "total_shares": 57850000.0,
+        "float_shares": 13014000.0,
+        "tick_size": 0.01,
+        "limit_up": 48.89,
+        "limit_down": 26.33
+      }
+    },
+    {
+      "symbol": "920036.BJ",
+      "exchange": "BJ",
+      "code": "920036",
+      "name": "觅睿科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-03-09",
+        "total_shares": 54421827.0,
+        "float_shares": 13061277.0,
+        "tick_size": 0.01,
+        "limit_up": 80.34,
+        "limit_down": 43.26
+      }
+    },
+    {
+      "symbol": "920037.BJ",
+      "exchange": "BJ",
+      "code": "920037",
+      "name": "广信科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-06-26",
+        "total_shares": 91462908.0,
+        "float_shares": 29564308.0,
+        "tick_size": 0.01,
+        "limit_up": 112.6,
+        "limit_down": 60.64
+      }
+    },
+    {
+      "symbol": "920039.BJ",
+      "exchange": "BJ",
+      "code": "920039",
+      "name": "国义招标",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-18",
+        "total_shares": 153820000.0,
+        "float_shares": 153819900.0,
+        "tick_size": 0.01,
+        "limit_up": 13.94,
+        "limit_down": 7.52
+      }
+    },
+    {
+      "symbol": "920045.BJ",
+      "exchange": "BJ",
+      "code": "920045",
+      "name": "蘅东光",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-12-31",
+        "total_shares": 68071548.0,
+        "float_shares": 20127535.0,
+        "tick_size": 0.01,
+        "limit_up": 508.95,
+        "limit_down": 274.05
+      }
+    },
+    {
+      "symbol": "920046.BJ",
+      "exchange": "BJ",
+      "code": "920046",
+      "name": "亿能电力",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-13",
+        "total_shares": 101150000.0,
+        "float_shares": 55927037.0,
+        "tick_size": 0.01,
+        "limit_up": 44.2,
+        "limit_down": 23.8
+      }
+    },
+    {
+      "symbol": "920047.BJ",
+      "exchange": "BJ",
+      "code": "920047",
+      "name": "诺思兰德",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-11-24",
+        "total_shares": 274271974.0,
+        "float_shares": 180106427.0,
+        "tick_size": 0.01,
+        "limit_up": 31.77,
+        "limit_down": 17.11
+      }
+    },
+    {
+      "symbol": "920050.BJ",
+      "exchange": "BJ",
+      "code": "920050",
+      "name": "爱舍伦",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-01-21",
+        "total_shares": 67679334.0,
+        "float_shares": 18102651.0,
+        "tick_size": 0.01,
+        "limit_up": 46.55,
+        "limit_down": 25.07
+      }
+    },
+    {
+      "symbol": "920056.BJ",
+      "exchange": "BJ",
+      "code": "920056",
+      "name": "能之光",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-08-22",
+        "total_shares": 81691700.0,
+        "float_shares": 30843881.0,
+        "tick_size": 0.01,
+        "limit_up": 33.69,
+        "limit_down": 18.15
+      }
+    },
+    {
+      "symbol": "920057.BJ",
+      "exchange": "BJ",
+      "code": "920057",
+      "name": "百甲科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-14",
+        "total_shares": 181263297.0,
+        "float_shares": 115070679.0,
+        "tick_size": 0.01,
+        "limit_up": 8.86,
+        "limit_down": 4.78
+      }
+    },
+    {
+      "symbol": "920058.BJ",
+      "exchange": "BJ",
+      "code": "920058",
+      "name": "华洋赛车",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-10",
+        "total_shares": 56056110.0,
+        "float_shares": 27594388.0,
+        "tick_size": 0.01,
+        "limit_up": 39.33,
+        "limit_down": 21.19
+      }
+    },
+    {
+      "symbol": "920060.BJ",
+      "exchange": "BJ",
+      "code": "920060",
+      "name": "万源通",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-11-19",
+        "total_shares": 152044663.0,
+        "float_shares": 94824272.0,
+        "tick_size": 0.01,
+        "limit_up": 44.81,
+        "limit_down": 24.13
+      }
+    },
+    {
+      "symbol": "920061.BJ",
+      "exchange": "BJ",
+      "code": "920061",
+      "name": "西磁科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-21",
+        "total_shares": 70790000.0,
+        "float_shares": 39364400.0,
+        "tick_size": 0.01,
+        "limit_up": 35.8,
+        "limit_down": 19.28
+      }
+    },
+    {
+      "symbol": "920062.BJ",
+      "exchange": "BJ",
+      "code": "920062",
+      "name": "科润智控",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-13",
+        "total_shares": 188706277.0,
+        "float_shares": 133510005.0,
+        "tick_size": 0.01,
+        "limit_up": 16.04,
+        "limit_down": 8.64
+      }
+    },
+    {
+      "symbol": "920066.BJ",
+      "exchange": "BJ",
+      "code": "920066",
+      "name": "科拜尔",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-10-31",
+        "total_shares": 62853326.0,
+        "float_shares": 19873326.0,
+        "tick_size": 0.01,
+        "limit_up": 32.56,
+        "limit_down": 17.54
+      }
+    },
+    {
+      "symbol": "920068.BJ",
+      "exchange": "BJ",
+      "code": "920068",
+      "name": "天工股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-05-13",
+        "total_shares": 655600015.0,
+        "float_shares": 62704261.0,
+        "tick_size": 0.01,
+        "limit_up": 29.05,
+        "limit_down": 15.65
+      }
+    },
+    {
+      "symbol": "920075.BJ",
+      "exchange": "BJ",
+      "code": "920075",
+      "name": "柏星龙",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-14",
+        "total_shares": 64815000.0,
+        "float_shares": 34878864.0,
+        "tick_size": 0.01,
+        "limit_up": 31.78,
+        "limit_down": 17.12
+      }
+    },
+    {
+      "symbol": "920076.BJ",
+      "exchange": "BJ",
+      "code": "920076",
+      "name": "国亮新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-01-22",
+        "total_shares": 83634491.0,
+        "float_shares": 19761417.0,
+        "tick_size": 0.01,
+        "limit_up": 30.16,
+        "limit_down": 16.24
+      }
+    },
+    {
+      "symbol": "920077.BJ",
+      "exchange": "BJ",
+      "code": "920077",
+      "name": "吉林碳谷",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-31",
+        "total_shares": 587681817.0,
+        "float_shares": 303353470.0,
+        "tick_size": 0.01,
+        "limit_up": 26.02,
+        "limit_down": 14.02
+      }
+    },
+    {
+      "symbol": "920080.BJ",
+      "exchange": "BJ",
+      "code": "920080",
+      "name": "奥美森",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-10-10",
+        "total_shares": 83000000.0,
+        "float_shares": 22660401.0,
+        "tick_size": 0.01,
+        "limit_up": 34.52,
+        "limit_down": 18.6
+      }
+    },
+    {
+      "symbol": "920082.BJ",
+      "exchange": "BJ",
+      "code": "920082",
+      "name": "方正阀门",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-12-26",
+        "total_shares": 145355000.0,
+        "float_shares": 39567013.0,
+        "tick_size": 0.01,
+        "limit_up": 22.38,
+        "limit_down": 12.06
+      }
+    },
+    {
+      "symbol": "920086.BJ",
+      "exchange": "BJ",
+      "code": "920086",
+      "name": "科马材料",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-01-16",
+        "total_shares": 83680000.0,
+        "float_shares": 26744500.0,
+        "tick_size": 0.01,
+        "limit_up": 45.79,
+        "limit_down": 24.67
+      }
+    },
+    {
+      "symbol": "920087.BJ",
+      "exchange": "BJ",
+      "code": "920087",
+      "name": "秋乐种业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-07",
+        "total_shares": 165200000.0,
+        "float_shares": 164046125.0,
+        "tick_size": 0.01,
+        "limit_up": 23.73,
+        "limit_down": 12.79
+      }
+    },
+    {
+      "symbol": "920088.BJ",
+      "exchange": "BJ",
+      "code": "920088",
+      "name": "科力股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-10-29",
+        "total_shares": 88071500.0,
+        "float_shares": 32067414.0,
+        "tick_size": 0.01,
+        "limit_up": 96.92,
+        "limit_down": 52.2
+      }
+    },
+    {
+      "symbol": "920089.BJ",
+      "exchange": "BJ",
+      "code": "920089",
+      "name": "禾昌聚合",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-09",
+        "total_shares": 150668000.0,
+        "float_shares": 85816751.0,
+        "tick_size": 0.01,
+        "limit_up": 26.37,
+        "limit_down": 14.21
+      }
+    },
+    {
+      "symbol": "920090.BJ",
+      "exchange": "BJ",
+      "code": "920090",
+      "name": "同辉信息",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-09",
+        "total_shares": 199333546.0,
+        "float_shares": 134922172.0,
+        "tick_size": 0.01,
+        "limit_up": 10.58,
+        "limit_down": 5.7
+      }
+    },
+    {
+      "symbol": "920091.BJ",
+      "exchange": "BJ",
+      "code": "920091",
+      "name": "大鹏工业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-11-21",
+        "total_shares": 61465200.0,
+        "float_shares": 13590900.0,
+        "tick_size": 0.01,
+        "limit_up": 97.76,
+        "limit_down": 52.64
+      }
+    },
+    {
+      "symbol": "920092.BJ",
+      "exchange": "BJ",
+      "code": "920092",
+      "name": "汉鑫科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 62079700.0,
+        "float_shares": 32953387.0,
+        "tick_size": 0.01,
+        "limit_up": 45.66,
+        "limit_down": 24.6
+      }
+    },
+    {
+      "symbol": "920098.BJ",
+      "exchange": "BJ",
+      "code": "920098",
+      "name": "科隆新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-12-05",
+        "total_shares": 81320369.0,
+        "float_shares": 55375664.0,
+        "tick_size": 0.01,
+        "limit_up": 37.1,
+        "limit_down": 19.98
+      }
+    },
+    {
+      "symbol": "920099.BJ",
+      "exchange": "BJ",
+      "code": "920099",
+      "name": "瑞华技术",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-09-25",
+        "total_shares": 78399998.0,
+        "float_shares": 48185241.0,
+        "tick_size": 0.01,
+        "limit_up": 44.0,
+        "limit_down": 23.7
+      }
+    },
+    {
+      "symbol": "920100.BJ",
+      "exchange": "BJ",
+      "code": "920100",
+      "name": "三协电机",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-09-08",
+        "total_shares": 73809300.0,
+        "float_shares": 17100138.0,
+        "tick_size": 0.01,
+        "limit_up": 78.58,
+        "limit_down": 42.32
+      }
+    },
+    {
+      "symbol": "920101.BJ",
+      "exchange": "BJ",
+      "code": "920101",
+      "name": "志高机械",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-08-14",
+        "total_shares": 89148174.0,
+        "float_shares": 27818539.0,
+        "tick_size": 0.01,
+        "limit_up": 50.08,
+        "limit_down": 26.98
+      }
+    },
+    {
+      "symbol": "920106.BJ",
+      "exchange": "BJ",
+      "code": "920106",
+      "name": "林泰新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-12-18",
+        "total_shares": 56593500.0,
+        "float_shares": 43654878.0,
+        "tick_size": 0.01,
+        "limit_up": 91.18,
+        "limit_down": 49.1
+      }
+    },
+    {
+      "symbol": "920108.BJ",
+      "exchange": "BJ",
+      "code": "920108",
+      "name": "宏海科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-02-06",
+        "total_shares": 172200000.0,
+        "float_shares": 72967650.0,
+        "tick_size": 0.01,
+        "limit_up": 15.56,
+        "limit_down": 8.38
+      }
+    },
+    {
+      "symbol": "920110.BJ",
+      "exchange": "BJ",
+      "code": "920110",
+      "name": "雷特科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-06",
+        "total_shares": 39000000.0,
+        "float_shares": 16239000.0,
+        "tick_size": 0.01,
+        "limit_up": 47.73,
+        "limit_down": 25.71
+      }
+    },
+    {
+      "symbol": "920111.BJ",
+      "exchange": "BJ",
+      "code": "920111",
+      "name": "聚星科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-11-11",
+        "total_shares": 155154500.0,
+        "float_shares": 75288125.0,
+        "tick_size": 0.01,
+        "limit_up": 34.15,
+        "limit_down": 18.39
+      }
+    },
+    {
+      "symbol": "920112.BJ",
+      "exchange": "BJ",
+      "code": "920112",
+      "name": "巴兰仕",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-08-28",
+        "total_shares": 84850000.0,
+        "float_shares": 23183000.0,
+        "tick_size": 0.01,
+        "limit_up": 47.84,
+        "limit_down": 25.76
+      }
+    },
+    {
+      "symbol": "920116.BJ",
+      "exchange": "BJ",
+      "code": "920116",
+      "name": "星图测控",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-01-02",
+        "total_shares": 159775000.0,
+        "float_shares": 153475000.0,
+        "tick_size": 0.01,
+        "limit_up": 130.01,
+        "limit_down": 70.01
+      }
+    },
+    {
+      "symbol": "920118.BJ",
+      "exchange": "BJ",
+      "code": "920118",
+      "name": "太湖远大",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-08-22",
+        "total_shares": 50896000.0,
+        "float_shares": 31339100.0,
+        "tick_size": 0.01,
+        "limit_up": 30.74,
+        "limit_down": 16.56
+      }
+    },
+    {
+      "symbol": "920119.BJ",
+      "exchange": "BJ",
+      "code": "920119",
+      "name": "美德乐",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-01-30",
+        "total_shares": 72123267.0,
+        "float_shares": 14400000.0,
+        "tick_size": 0.01,
+        "limit_up": 124.55,
+        "limit_down": 67.07
+      }
+    },
+    {
+      "symbol": "920121.BJ",
+      "exchange": "BJ",
+      "code": "920121",
+      "name": "江天科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-12-25",
+        "total_shares": 66068183.0,
+        "float_shares": 11892274.0,
+        "tick_size": 0.01,
+        "limit_up": 52.0,
+        "limit_down": 28.0
+      }
+    },
+    {
+      "symbol": "920122.BJ",
+      "exchange": "BJ",
+      "code": "920122",
+      "name": "中纺标",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-27",
+        "total_shares": 92242108.0,
+        "float_shares": 37375138.0,
+        "tick_size": 0.01,
+        "limit_up": 38.92,
+        "limit_down": 20.96
+      }
+    },
+    {
+      "symbol": "920123.BJ",
+      "exchange": "BJ",
+      "code": "920123",
+      "name": "芭薇股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-03-29",
+        "total_shares": 111540000.0,
+        "float_shares": 63632896.0,
+        "tick_size": 0.01,
+        "limit_up": 17.79,
+        "limit_down": 9.59
+      }
+    },
+    {
+      "symbol": "920124.BJ",
+      "exchange": "BJ",
+      "code": "920124",
+      "name": "南特科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-11-27",
+        "total_shares": 148733315.0,
+        "float_shares": 76531409.0,
+        "tick_size": 0.01,
+        "limit_up": 22.94,
+        "limit_down": 12.36
+      }
+    },
+    {
+      "symbol": "920128.BJ",
+      "exchange": "BJ",
+      "code": "920128",
+      "name": "胜业电气",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-11-29",
+        "total_shares": 81190000.0,
+        "float_shares": 38235000.0,
+        "tick_size": 0.01,
+        "limit_up": 35.81,
+        "limit_down": 19.29
+      }
+    },
+    {
+      "symbol": "920130.BJ",
+      "exchange": "BJ",
+      "code": "920130",
+      "name": "立方控股",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-02",
+        "total_shares": 92243236.0,
+        "float_shares": 56587619.0,
+        "tick_size": 0.01,
+        "limit_up": 30.88,
+        "limit_down": 16.64
+      }
+    },
+    {
+      "symbol": "920132.BJ",
+      "exchange": "BJ",
+      "code": "920132",
+      "name": "泰鹏智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-16",
+        "total_shares": 82824000.0,
+        "float_shares": 28064901.0,
+        "tick_size": 0.01,
+        "limit_up": 21.09,
+        "limit_down": 11.37
+      }
+    },
+    {
+      "symbol": "920139.BJ",
+      "exchange": "BJ",
+      "code": "920139",
+      "name": "华岭股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-28",
+        "total_shares": 269507392.0,
+        "float_shares": 258298318.0,
+        "tick_size": 0.01,
+        "limit_up": 25.25,
+        "limit_down": 13.61
+      }
+    },
+    {
+      "symbol": "920145.BJ",
+      "exchange": "BJ",
+      "code": "920145",
+      "name": "恒合股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 70550000.0,
+        "float_shares": 48593000.0,
+        "tick_size": 0.01,
+        "limit_up": 22.93,
+        "limit_down": 12.35
+      }
+    },
+    {
+      "symbol": "920146.BJ",
+      "exchange": "BJ",
+      "code": "920146",
+      "name": "华阳变速",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-07-20",
+        "total_shares": 134990443.0,
+        "float_shares": 107137852.0,
+        "tick_size": 0.01,
+        "limit_up": 9.89,
+        "limit_down": 5.33
+      }
+    },
+    {
+      "symbol": "920149.BJ",
+      "exchange": "BJ",
+      "code": "920149",
+      "name": "旭杰科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 76483180.0,
+        "float_shares": 63248003.0,
+        "tick_size": 0.01,
+        "limit_up": 14.67,
+        "limit_down": 7.91
+      }
+    },
+    {
+      "symbol": "920152.BJ",
+      "exchange": "BJ",
+      "code": "920152",
+      "name": "昆工科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-01",
+        "total_shares": 111341700.0,
+        "float_shares": 82161225.0,
+        "tick_size": 0.01,
+        "limit_up": 26.1,
+        "limit_down": 14.06
+      }
+    },
+    {
+      "symbol": "920158.BJ",
+      "exchange": "BJ",
+      "code": "920158",
+      "name": "长江能科",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-10-16",
+        "total_shares": 142580000.0,
+        "float_shares": 38139400.0,
+        "tick_size": 0.01,
+        "limit_up": 25.9,
+        "limit_down": 13.96
+      }
+    },
+    {
+      "symbol": "920159.BJ",
+      "exchange": "BJ",
+      "code": "920159",
+      "name": "农大科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-01-28",
+        "total_shares": 76000000.0,
+        "float_shares": 14400000.0,
+        "tick_size": 0.01,
+        "limit_up": 58.92,
+        "limit_down": 31.74
+      }
+    },
+    {
+      "symbol": "920160.BJ",
+      "exchange": "BJ",
+      "code": "920160",
+      "name": "北矿检测",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2025-11-18",
+        "total_shares": 113280000.0,
+        "float_shares": 25488000.0,
+        "tick_size": 0.01,
+        "limit_up": 31.7,
+        "limit_down": 17.08
+      }
+    },
+    {
+      "symbol": "920163.BJ",
+      "exchange": "BJ",
+      "code": "920163",
+      "name": "方大新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 128715160.0,
+        "float_shares": 59756985.0,
+        "tick_size": 0.01,
+        "limit_up": 21.12,
+        "limit_down": 11.38
+      }
+    },
+    {
+      "symbol": "920166.BJ",
+      "exchange": "BJ",
+      "code": "920166",
+      "name": "海圣医疗",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-02-12",
+        "total_shares": 75294118.0,
+        "float_shares": 23764707.0,
+        "tick_size": 0.01,
+        "limit_up": 38.55,
+        "limit_down": 20.77
+      }
+    },
+    {
+      "symbol": "920167.BJ",
+      "exchange": "BJ",
+      "code": "920167",
+      "name": "同享科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 110026500.0,
+        "float_shares": 65363812.0,
+        "tick_size": 0.01,
+        "limit_up": 26.09,
+        "limit_down": 14.05
+      }
+    },
+    {
+      "symbol": "920168.BJ",
+      "exchange": "BJ",
+      "code": "920168",
+      "name": "通宝光电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-02-26",
+        "total_shares": 75173400.0,
+        "float_shares": 28174514.0,
+        "tick_size": 0.01,
+        "limit_up": 31.57,
+        "limit_down": 17.01
+      }
+    },
+    {
+      "symbol": "920169.BJ",
+      "exchange": "BJ",
+      "code": "920169",
+      "name": "七丰精工",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-04-15",
+        "total_shares": 80800090.0,
+        "float_shares": 50803203.0,
+        "tick_size": 0.01,
+        "limit_up": 42.97,
+        "limit_down": 23.15
+      }
+    },
+    {
+      "symbol": "920171.BJ",
+      "exchange": "BJ",
+      "code": "920171",
+      "name": "志晟信息",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 100233235.0,
+        "float_shares": 67497130.0,
+        "tick_size": 0.01,
+        "limit_up": 26.93,
+        "limit_down": 14.51
+      }
+    },
+    {
+      "symbol": "920174.BJ",
+      "exchange": "BJ",
+      "code": "920174",
+      "name": "五新隧装",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-20",
+        "total_shares": 216904891.0,
+        "float_shares": 55276486.0,
+        "tick_size": 0.01,
+        "limit_up": 54.8,
+        "limit_down": 29.52
+      }
+    },
+    {
+      "symbol": "920175.BJ",
+      "exchange": "BJ",
+      "code": "920175",
+      "name": "东方碳素",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-30",
+        "total_shares": 119000000.0,
+        "float_shares": 79275860.0,
+        "tick_size": 0.01,
+        "limit_up": 15.24,
+        "limit_down": 8.22
+      }
+    },
+    {
+      "symbol": "920179.BJ",
+      "exchange": "BJ",
+      "code": "920179",
+      "name": "凯德石英",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-03-04",
+        "total_shares": 74970000.0,
+        "float_shares": 59718474.0,
+        "tick_size": 0.01,
+        "limit_up": 55.92,
+        "limit_down": 30.12
+      }
+    },
+    {
+      "symbol": "920180.BJ",
+      "exchange": "BJ",
+      "code": "920180",
+      "name": "爱得科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-02-10",
+        "total_shares": 118123046.0,
+        "float_shares": 26577686.0,
+        "tick_size": 0.01,
+        "limit_up": 24.12,
+        "limit_down": 13.0
+      }
+    },
+    {
+      "symbol": "920183.BJ",
+      "exchange": "BJ",
+      "code": "920183",
+      "name": "海菲曼",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-03-04",
+        "total_shares": 48952000.0,
+        "float_shares": 11249827.0,
+        "tick_size": 0.01,
+        "limit_up": 58.04,
+        "limit_down": 31.26
+      }
+    },
+    {
+      "symbol": "920184.BJ",
+      "exchange": "BJ",
+      "code": "920184",
+      "name": "国源科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 132613709.0,
+        "float_shares": 89346452.0,
+        "tick_size": 0.01,
+        "limit_up": 22.8,
+        "limit_down": 12.28
+      }
+    },
+    {
+      "symbol": "920185.BJ",
+      "exchange": "BJ",
+      "code": "920185",
+      "name": "贝特瑞",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 1138190398.0,
+        "float_shares": 1117646423.0,
+        "tick_size": 0.01,
+        "limit_up": 38.81,
+        "limit_down": 20.91
+      }
+    },
+    {
+      "symbol": "920187.BJ",
+      "exchange": "BJ",
+      "code": "920187",
+      "name": "通领科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2026-03-05",
+        "total_shares": 62400000.0,
+        "float_shares": 20953886.0,
+        "tick_size": 0.01,
+        "limit_up": 50.05,
+        "limit_down": 26.95
+      }
+    },
+    {
+      "symbol": "920190.BJ",
+      "exchange": "BJ",
+      "code": "920190",
+      "name": "雷神科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-23",
+        "total_shares": 100000001.0,
+        "float_shares": 99443051.0,
+        "tick_size": 0.01,
+        "limit_up": 32.95,
+        "limit_down": 17.75
+      }
+    },
+    {
+      "symbol": "920195.BJ",
+      "exchange": "BJ",
+      "code": "920195",
+      "name": "三祥科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-30",
+        "total_shares": 98030000.0,
+        "float_shares": 70758985.0,
+        "tick_size": 0.01,
+        "limit_up": 27.44,
+        "limit_down": 14.78
+      }
+    },
+    {
+      "symbol": "920198.BJ",
+      "exchange": "BJ",
+      "code": "920198",
+      "name": "微创光电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 161363872.0,
+        "float_shares": 70466003.0,
+        "tick_size": 0.01,
+        "limit_up": 13.0,
+        "limit_down": 7.0
+      }
+    },
+    {
+      "symbol": "920199.BJ",
+      "exchange": "BJ",
+      "code": "920199",
+      "name": "倍益康",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-01",
+        "total_shares": 68109800.0,
+        "float_shares": 37927255.0,
+        "tick_size": 0.01,
+        "limit_up": 56.6,
+        "limit_down": 30.48
+      }
+    },
+    {
+      "symbol": "920204.BJ",
+      "exchange": "BJ",
+      "code": "920204",
+      "name": "沪江材料",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-01-18",
+        "total_shares": 94287797.0,
+        "float_shares": 49990743.0,
+        "tick_size": 0.01,
+        "limit_up": 22.43,
+        "limit_down": 12.09
+      }
+    },
+    {
+      "symbol": "920207.BJ",
+      "exchange": "BJ",
+      "code": "920207",
+      "name": "众诚科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-23",
+        "total_shares": 92195000.0,
+        "float_shares": 56314468.0,
+        "tick_size": 0.01,
+        "limit_up": 44.22,
+        "limit_down": 23.82
+      }
+    },
+    {
+      "symbol": "920208.BJ",
+      "exchange": "BJ",
+      "code": "920208",
+      "name": "青矩技术",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-29",
+        "total_shares": 133804554.0,
+        "float_shares": 97750914.0,
+        "tick_size": 0.01,
+        "limit_up": 31.55,
+        "limit_down": 16.99
+      }
+    },
+    {
+      "symbol": "920212.BJ",
+      "exchange": "BJ",
+      "code": "920212",
+      "name": "智新电子",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-06-08",
+        "total_shares": 106100000.0,
+        "float_shares": 51532763.0,
+        "tick_size": 0.01,
+        "limit_up": 17.01,
+        "limit_down": 9.17
+      }
+    },
+    {
+      "symbol": "920221.BJ",
+      "exchange": "BJ",
+      "code": "920221",
+      "name": "易实精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-08",
+        "total_shares": 116040000.0,
+        "float_shares": 61764908.0,
+        "tick_size": 0.01,
+        "limit_up": 20.24,
+        "limit_down": 10.9
+      }
+    },
+    {
+      "symbol": "920223.BJ",
+      "exchange": "BJ",
+      "code": "920223",
+      "name": "荣亿精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-09",
+        "total_shares": 157285000.0,
+        "float_shares": 81583750.0,
+        "tick_size": 0.01,
+        "limit_up": 23.5,
+        "limit_down": 12.66
+      }
+    },
+    {
+      "symbol": "920225.BJ",
+      "exchange": "BJ",
+      "code": "920225",
+      "name": "利通科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-25",
+        "total_shares": 126918894.0,
+        "float_shares": 82782154.0,
+        "tick_size": 0.01,
+        "limit_up": 35.37,
+        "limit_down": 19.05
+      }
+    },
+    {
+      "symbol": "920227.BJ",
+      "exchange": "BJ",
+      "code": "920227",
+      "name": "美登科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-28",
+        "total_shares": 38941500.0,
+        "float_shares": 17718217.0,
+        "tick_size": 0.01,
+        "limit_up": 84.07,
+        "limit_down": 45.27
+      }
+    },
+    {
+      "symbol": "920230.BJ",
+      "exchange": "BJ",
+      "code": "920230",
+      "name": "欧康医药",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-09",
+        "total_shares": 100717495.0,
+        "float_shares": 47247748.0,
+        "tick_size": 0.01,
+        "limit_up": 15.84,
+        "limit_down": 8.54
+      }
+    },
+    {
+      "symbol": "920237.BJ",
+      "exchange": "BJ",
+      "code": "920237",
+      "name": "力佳科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-25",
+        "total_shares": 86392800.0,
+        "float_shares": 84757725.0,
+        "tick_size": 0.01,
+        "limit_up": 28.73,
+        "limit_down": 15.47
+      }
+    },
+    {
+      "symbol": "920239.BJ",
+      "exchange": "BJ",
+      "code": "920239",
+      "name": "长虹能源",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-09",
+        "total_shares": 182074204.0,
+        "float_shares": 179434708.0,
+        "tick_size": 0.01,
+        "limit_up": 41.79,
+        "limit_down": 22.51
+      }
+    },
+    {
+      "symbol": "920242.BJ",
+      "exchange": "BJ",
+      "code": "920242",
+      "name": "建邦科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 65814750.0,
+        "float_shares": 36994475.0,
+        "tick_size": 0.01,
+        "limit_up": 34.04,
+        "limit_down": 18.34
+      }
+    },
+    {
+      "symbol": "920245.BJ",
+      "exchange": "BJ",
+      "code": "920245",
+      "name": "威博液压",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-01-06",
+        "total_shares": 49695000.0,
+        "float_shares": 37995962.0,
+        "tick_size": 0.01,
+        "limit_up": 35.49,
+        "limit_down": 19.11
+      }
+    },
+    {
+      "symbol": "920247.BJ",
+      "exchange": "BJ",
+      "code": "920247",
+      "name": "华密新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-23",
+        "total_shares": 157544166.0,
+        "float_shares": 114266850.0,
+        "tick_size": 0.01,
+        "limit_up": 30.16,
+        "limit_down": 16.24
+      }
+    },
+    {
+      "symbol": "920249.BJ",
+      "exchange": "BJ",
+      "code": "920249",
+      "name": "利尔达",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-17",
+        "total_shares": 421630000.0,
+        "float_shares": 124669576.0,
+        "tick_size": 0.01,
+        "limit_up": 16.3,
+        "limit_down": 8.78
+      }
+    },
+    {
+      "symbol": "920252.BJ",
+      "exchange": "BJ",
+      "code": "920252",
+      "name": "天宏锂电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-01-19",
+        "total_shares": 102650665.0,
+        "float_shares": 68231239.0,
+        "tick_size": 0.01,
+        "limit_up": 38.61,
+        "limit_down": 20.79
+      }
+    },
+    {
+      "symbol": "920260.BJ",
+      "exchange": "BJ",
+      "code": "920260",
+      "name": "中寰股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 103550000.0,
+        "float_shares": 98735059.0,
+        "tick_size": 0.01,
+        "limit_up": 15.65,
+        "limit_down": 8.43
+      }
+    },
+    {
+      "symbol": "920261.BJ",
+      "exchange": "BJ",
+      "code": "920261",
+      "name": "一诺威",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-03",
+        "total_shares": 291132748.0,
+        "float_shares": 170854027.0,
+        "tick_size": 0.01,
+        "limit_up": 20.34,
+        "limit_down": 10.96
+      }
+    },
+    {
+      "symbol": "920262.BJ",
+      "exchange": "BJ",
+      "code": "920262",
+      "name": "太湖雪",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-30",
+        "total_shares": 69114185.0,
+        "float_shares": 31185407.0,
+        "tick_size": 0.01,
+        "limit_up": 29.43,
+        "limit_down": 15.85
+      }
+    },
+    {
+      "symbol": "920263.BJ",
+      "exchange": "BJ",
+      "code": "920263",
+      "name": "中航泰达",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 141242896.0,
+        "float_shares": 102549192.0,
+        "tick_size": 0.01,
+        "limit_up": 15.34,
+        "limit_down": 8.26
+      }
+    },
+    {
+      "symbol": "920266.BJ",
+      "exchange": "BJ",
+      "code": "920266",
+      "name": "生物谷",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 124000007.0,
+        "float_shares": 118490457.0,
+        "tick_size": 0.01,
+        "limit_up": 11.44,
+        "limit_down": 6.16
+      }
+    },
+    {
+      "symbol": "920267.BJ",
+      "exchange": "BJ",
+      "code": "920267",
+      "name": "鑫汇科",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-05-27",
+        "total_shares": 49982941.0,
+        "float_shares": 29577048.0,
+        "tick_size": 0.01,
+        "limit_up": 27.62,
+        "limit_down": 14.88
+      }
+    },
+    {
+      "symbol": "920270.BJ",
+      "exchange": "BJ",
+      "code": "920270",
+      "name": "天铭科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-02",
+        "total_shares": 104616000.0,
+        "float_shares": 81128317.0,
+        "tick_size": 0.01,
+        "limit_up": 23.73,
+        "limit_down": 12.79
+      }
+    },
+    {
+      "symbol": "920271.BJ",
+      "exchange": "BJ",
+      "code": "920271",
+      "name": "邦德股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-02",
+        "total_shares": 130823000.0,
+        "float_shares": 57890431.0,
+        "tick_size": 0.01,
+        "limit_up": 20.39,
+        "limit_down": 10.99
+      }
+    },
+    {
+      "symbol": "920273.BJ",
+      "exchange": "BJ",
+      "code": "920273",
+      "name": "一致魔芋",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-21",
+        "total_shares": 103170886.0,
+        "float_shares": 68670686.0,
+        "tick_size": 0.01,
+        "limit_up": 34.37,
+        "limit_down": 18.51
+      }
+    },
+    {
+      "symbol": "920274.BJ",
+      "exchange": "BJ",
+      "code": "920274",
+      "name": "宏裕包材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-18",
+        "total_shares": 81333334.0,
+        "float_shares": 81333334.0,
+        "tick_size": 0.01,
+        "limit_up": 31.98,
+        "limit_down": 17.22
+      }
+    },
+    {
+      "symbol": "920275.BJ",
+      "exchange": "BJ",
+      "code": "920275",
+      "name": "驱动力",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-01-25",
+        "total_shares": 159377600.0,
+        "float_shares": 131914521.0,
+        "tick_size": 0.01,
+        "limit_up": 10.79,
+        "limit_down": 5.81
+      }
+    },
+    {
+      "symbol": "920278.BJ",
+      "exchange": "BJ",
+      "code": "920278",
+      "name": "鹿得医疗",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 174500000.0,
+        "float_shares": 74048000.0,
+        "tick_size": 0.01,
+        "limit_up": 11.6,
+        "limit_down": 6.26
+      }
+    },
+    {
+      "symbol": "920284.BJ",
+      "exchange": "BJ",
+      "code": "920284",
+      "name": "灵鸽科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-19",
+        "total_shares": 104785645.0,
+        "float_shares": 67060701.0,
+        "tick_size": 0.01,
+        "limit_up": 46.85,
+        "limit_down": 25.23
+      }
+    },
+    {
+      "symbol": "920299.BJ",
+      "exchange": "BJ",
+      "code": "920299",
+      "name": "灿能电力",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-10",
+        "total_shares": 90109276.0,
+        "float_shares": 44399071.0,
+        "tick_size": 0.01,
+        "limit_up": 36.54,
+        "limit_down": 19.68
+      }
+    },
+    {
+      "symbol": "920300.BJ",
+      "exchange": "BJ",
+      "code": "920300",
+      "name": "辰光医疗",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-07",
+        "total_shares": 85847126.0,
+        "float_shares": 66531656.0,
+        "tick_size": 0.01,
+        "limit_up": 17.75,
+        "limit_down": 9.57
+      }
+    },
+    {
+      "symbol": "920304.BJ",
+      "exchange": "BJ",
+      "code": "920304",
+      "name": "迪尔化工",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-18",
+        "total_shares": 169538000.0,
+        "float_shares": 136454032.0,
+        "tick_size": 0.01,
+        "limit_up": 18.21,
+        "limit_down": 9.81
+      }
+    },
+    {
+      "symbol": "920305.BJ",
+      "exchange": "BJ",
+      "code": "920305",
+      "name": "*ST云创",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-26",
+        "total_shares": 132376125.0,
+        "float_shares": 64009125.0,
+        "tick_size": 0.01,
+        "limit_up": 10.08,
+        "limit_down": 5.44
+      }
+    },
+    {
+      "symbol": "920339.BJ",
+      "exchange": "BJ",
+      "code": "920339",
+      "name": "恒太照明",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-17",
+        "total_shares": 220203800.0,
+        "float_shares": 151177135.0,
+        "tick_size": 0.01,
+        "limit_up": 12.1,
+        "limit_down": 6.52
+      }
+    },
+    {
+      "symbol": "920344.BJ",
+      "exchange": "BJ",
+      "code": "920344",
+      "name": "三元基因",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-01-08",
+        "total_shares": 121810000.0,
+        "float_shares": 113728159.0,
+        "tick_size": 0.01,
+        "limit_up": 29.12,
+        "limit_down": 15.68
+      }
+    },
+    {
+      "symbol": "920346.BJ",
+      "exchange": "BJ",
+      "code": "920346",
+      "name": "威贸电子",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-02-23",
+        "total_shares": 80653103.0,
+        "float_shares": 44603718.0,
+        "tick_size": 0.01,
+        "limit_up": 30.01,
+        "limit_down": 16.17
+      }
+    },
+    {
+      "symbol": "920351.BJ",
+      "exchange": "BJ",
+      "code": "920351",
+      "name": "华光源海",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-29",
+        "total_shares": 88035439.0,
+        "float_shares": 39665340.0,
+        "tick_size": 0.01,
+        "limit_up": 28.54,
+        "limit_down": 15.38
+      }
+    },
+    {
+      "symbol": "920357.BJ",
+      "exchange": "BJ",
+      "code": "920357",
+      "name": "雅葆轩",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-18",
+        "total_shares": 80080000.0,
+        "float_shares": 44514600.0,
+        "tick_size": 0.01,
+        "limit_up": 31.9,
+        "limit_down": 17.18
+      }
+    },
+    {
+      "symbol": "920363.BJ",
+      "exchange": "BJ",
+      "code": "920363",
+      "name": "莱赛激光",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-28",
+        "total_shares": 95450000.0,
+        "float_shares": 51089570.0,
+        "tick_size": 0.01,
+        "limit_up": 23.3,
+        "limit_down": 12.56
+      }
+    },
+    {
+      "symbol": "920367.BJ",
+      "exchange": "BJ",
+      "code": "920367",
+      "name": "新赣江",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-09",
+        "total_shares": 70861250.0,
+        "float_shares": 41992578.0,
+        "tick_size": 0.01,
+        "limit_up": 26.98,
+        "limit_down": 14.54
+      }
+    },
+    {
+      "symbol": "920368.BJ",
+      "exchange": "BJ",
+      "code": "920368",
+      "name": "连城数控",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 234780440.0,
+        "float_shares": 223361584.0,
+        "tick_size": 0.01,
+        "limit_up": 54.96,
+        "limit_down": 29.6
+      }
+    },
+    {
+      "symbol": "920370.BJ",
+      "exchange": "BJ",
+      "code": "920370",
+      "name": "新安洁",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 300283343.0,
+        "float_shares": 261454437.0,
+        "tick_size": 0.01,
+        "limit_up": 5.05,
+        "limit_down": 2.73
+      }
+    },
+    {
+      "symbol": "920371.BJ",
+      "exchange": "BJ",
+      "code": "920371",
+      "name": "欧福蛋业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-01-18",
+        "total_shares": 205445536.0,
+        "float_shares": 193907199.0,
+        "tick_size": 0.01,
+        "limit_up": 13.68,
+        "limit_down": 7.38
+      }
+    },
+    {
+      "symbol": "920374.BJ",
+      "exchange": "BJ",
+      "code": "920374",
+      "name": "云里物里",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-29",
+        "total_shares": 81518000.0,
+        "float_shares": 34113551.0,
+        "tick_size": 0.01,
+        "limit_up": 29.9,
+        "limit_down": 16.1
+      }
+    },
+    {
+      "symbol": "920375.BJ",
+      "exchange": "BJ",
+      "code": "920375",
+      "name": "派诺科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-14",
+        "total_shares": 108653850.0,
+        "float_shares": 64916188.0,
+        "tick_size": 0.01,
+        "limit_up": 27.69,
+        "limit_down": 14.91
+      }
+    },
+    {
+      "symbol": "920378.BJ",
+      "exchange": "BJ",
+      "code": "920378",
+      "name": "泰德股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-20",
+        "total_shares": 155526000.0,
+        "float_shares": 111382264.0,
+        "tick_size": 0.01,
+        "limit_up": 12.96,
+        "limit_down": 6.98
+      }
+    },
+    {
+      "symbol": "920392.BJ",
+      "exchange": "BJ",
+      "code": "920392",
+      "name": "佳合科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-30",
+        "total_shares": 76205000.0,
+        "float_shares": 36389900.0,
+        "tick_size": 0.01,
+        "limit_up": 30.03,
+        "limit_down": 16.17
+      }
+    },
+    {
+      "symbol": "920394.BJ",
+      "exchange": "BJ",
+      "code": "920394",
+      "name": "民士达",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-25",
+        "total_shares": 146250000.0,
+        "float_shares": 145172812.0,
+        "tick_size": 0.01,
+        "limit_up": 70.04,
+        "limit_down": 37.72
+      }
+    },
+    {
+      "symbol": "920395.BJ",
+      "exchange": "BJ",
+      "code": "920395",
+      "name": "朗鸿科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-01",
+        "total_shares": 152585704.0,
+        "float_shares": 103257964.0,
+        "tick_size": 0.01,
+        "limit_up": 14.58,
+        "limit_down": 7.86
+      }
+    },
+    {
+      "symbol": "920396.BJ",
+      "exchange": "BJ",
+      "code": "920396",
+      "name": "常辅股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-11-18",
+        "total_shares": 72221136.0,
+        "float_shares": 51308753.0,
+        "tick_size": 0.01,
+        "limit_up": 46.35,
+        "limit_down": 24.97
+      }
+    },
+    {
+      "symbol": "920402.BJ",
+      "exchange": "BJ",
+      "code": "920402",
+      "name": "硅烷科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-28",
+        "total_shares": 422060067.0,
+        "float_shares": 272873277.0,
+        "tick_size": 0.01,
+        "limit_up": 13.07,
+        "limit_down": 7.05
+      }
+    },
+    {
+      "symbol": "920403.BJ",
+      "exchange": "BJ",
+      "code": "920403",
+      "name": "康农种业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-01-18",
+        "total_shares": 99361080.0,
+        "float_shares": 59093580.0,
+        "tick_size": 0.01,
+        "limit_up": 32.38,
+        "limit_down": 17.44
+      }
+    },
+    {
+      "symbol": "920405.BJ",
+      "exchange": "BJ",
+      "code": "920405",
+      "name": "海希通讯",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-05",
+        "total_shares": 140260000.0,
+        "float_shares": 110080256.0,
+        "tick_size": 0.01,
+        "limit_up": 32.24,
+        "limit_down": 17.36
+      }
+    },
+    {
+      "symbol": "920407.BJ",
+      "exchange": "BJ",
+      "code": "920407",
+      "name": "驰诚股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-16",
+        "total_shares": 85384000.0,
+        "float_shares": 34760895.0,
+        "tick_size": 0.01,
+        "limit_up": 27.1,
+        "limit_down": 14.6
+      }
+    },
+    {
+      "symbol": "920414.BJ",
+      "exchange": "BJ",
+      "code": "920414",
+      "name": "欧普泰",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-12",
+        "total_shares": 79748171.0,
+        "float_shares": 56077587.0,
+        "tick_size": 0.01,
+        "limit_up": 18.51,
+        "limit_down": 9.97
+      }
+    },
+    {
+      "symbol": "920415.BJ",
+      "exchange": "BJ",
+      "code": "920415",
+      "name": "恒拓开源",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 140511487.0,
+        "float_shares": 108231343.0,
+        "tick_size": 0.01,
+        "limit_up": 18.36,
+        "limit_down": 9.9
+      }
+    },
+    {
+      "symbol": "920418.BJ",
+      "exchange": "BJ",
+      "code": "920418",
+      "name": "苏轴股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 162489600.0,
+        "float_shares": 155690911.0,
+        "tick_size": 0.01,
+        "limit_up": 34.71,
+        "limit_down": 18.69
+      }
+    },
+    {
+      "symbol": "920419.BJ",
+      "exchange": "BJ",
+      "code": "920419",
+      "name": "路斯股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-03-11",
+        "total_shares": 103306400.0,
+        "float_shares": 96613424.0,
+        "tick_size": 0.01,
+        "limit_up": 19.08,
+        "limit_down": 10.28
+      }
+    },
+    {
+      "symbol": "920422.BJ",
+      "exchange": "BJ",
+      "code": "920422",
+      "name": "润普食品",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-01",
+        "total_shares": 88482710.0,
+        "float_shares": 66222710.0,
+        "tick_size": 0.01,
+        "limit_up": 15.99,
+        "limit_down": 8.61
+      }
+    },
+    {
+      "symbol": "920425.BJ",
+      "exchange": "BJ",
+      "code": "920425",
+      "name": "乐创技术",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-01-30",
+        "total_shares": 70936548.0,
+        "float_shares": 59213298.0,
+        "tick_size": 0.01,
+        "limit_up": 29.66,
+        "limit_down": 15.98
+      }
+    },
+    {
+      "symbol": "920427.BJ",
+      "exchange": "BJ",
+      "code": "920427",
+      "name": "华维设计",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-05",
+        "total_shares": 103095000.0,
+        "float_shares": 50908014.0,
+        "tick_size": 0.01,
+        "limit_up": 17.03,
+        "limit_down": 9.17
+      }
+    },
+    {
+      "symbol": "920429.BJ",
+      "exchange": "BJ",
+      "code": "920429",
+      "name": "康比特",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-15",
+        "total_shares": 124500000.0,
+        "float_shares": 113500391.0,
+        "tick_size": 0.01,
+        "limit_up": 17.91,
+        "limit_down": 9.65
+      }
+    },
+    {
+      "symbol": "920433.BJ",
+      "exchange": "BJ",
+      "code": "920433",
+      "name": "大唐药业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 255919681.0,
+        "float_shares": 169316396.0,
+        "tick_size": 0.01,
+        "limit_up": 7.42,
+        "limit_down": 4.0
+      }
+    },
+    {
+      "symbol": "920436.BJ",
+      "exchange": "BJ",
+      "code": "920436",
+      "name": "大地电气",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 94476000.0,
+        "float_shares": 88868151.0,
+        "tick_size": 0.01,
+        "limit_up": 20.9,
+        "limit_down": 11.26
+      }
+    },
+    {
+      "symbol": "920438.BJ",
+      "exchange": "BJ",
+      "code": "920438",
+      "name": "戈碧迦",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-03-25",
+        "total_shares": 145475000.0,
+        "float_shares": 139394050.0,
+        "tick_size": 0.01,
+        "limit_up": 53.19,
+        "limit_down": 28.65
+      }
+    },
+    {
+      "symbol": "920445.BJ",
+      "exchange": "BJ",
+      "code": "920445",
+      "name": "龙竹科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 147953025.0,
+        "float_shares": 104680178.0,
+        "tick_size": 0.01,
+        "limit_up": 14.46,
+        "limit_down": 7.8
+      }
+    },
+    {
+      "symbol": "920454.BJ",
+      "exchange": "BJ",
+      "code": "920454",
+      "name": "同心传动",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 105100000.0,
+        "float_shares": 49230500.0,
+        "tick_size": 0.01,
+        "limit_up": 19.51,
+        "limit_down": 10.51
+      }
+    },
+    {
+      "symbol": "920455.BJ",
+      "exchange": "BJ",
+      "code": "920455",
+      "name": "汇隆活塞",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-21",
+        "total_shares": 177450000.0,
+        "float_shares": 93617061.0,
+        "tick_size": 0.01,
+        "limit_up": 11.08,
+        "limit_down": 5.98
+      }
+    },
+    {
+      "symbol": "920469.BJ",
+      "exchange": "BJ",
+      "code": "920469",
+      "name": "富恒新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-18",
+        "total_shares": 140946000.0,
+        "float_shares": 103448162.0,
+        "tick_size": 0.01,
+        "limit_up": 14.09,
+        "limit_down": 7.59
+      }
+    },
+    {
+      "symbol": "920471.BJ",
+      "exchange": "BJ",
+      "code": "920471",
+      "name": "美邦科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-25",
+        "total_shares": 83200000.0,
+        "float_shares": 53030607.0,
+        "tick_size": 0.01,
+        "limit_up": 19.13,
+        "limit_down": 10.31
+      }
+    },
+    {
+      "symbol": "920475.BJ",
+      "exchange": "BJ",
+      "code": "920475",
+      "name": "三友科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 101060000.0,
+        "float_shares": 56198426.0,
+        "tick_size": 0.01,
+        "limit_up": 19.27,
+        "limit_down": 10.39
+      }
+    },
+    {
+      "symbol": "920476.BJ",
+      "exchange": "BJ",
+      "code": "920476",
+      "name": "海能技术",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-14",
+        "total_shares": 85179800.0,
+        "float_shares": 80550743.0,
+        "tick_size": 0.01,
+        "limit_up": 29.64,
+        "limit_down": 15.96
+      }
+    },
+    {
+      "symbol": "920478.BJ",
+      "exchange": "BJ",
+      "code": "920478",
+      "name": "峆一药业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-23",
+        "total_shares": 78708700.0,
+        "float_shares": 47240066.0,
+        "tick_size": 0.01,
+        "limit_up": 22.93,
+        "limit_down": 12.35
+      }
+    },
+    {
+      "symbol": "920489.BJ",
+      "exchange": "BJ",
+      "code": "920489",
+      "name": "佳先股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 136459200.0,
+        "float_shares": 86825529.0,
+        "tick_size": 0.01,
+        "limit_up": 21.47,
+        "limit_down": 11.57
+      }
+    },
+    {
+      "symbol": "920491.BJ",
+      "exchange": "BJ",
+      "code": "920491",
+      "name": "奥迪威",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-14",
+        "total_shares": 141143180.0,
+        "float_shares": 115564196.0,
+        "tick_size": 0.01,
+        "limit_up": 32.87,
+        "limit_down": 17.71
+      }
+    },
+    {
+      "symbol": "920493.BJ",
+      "exchange": "BJ",
+      "code": "920493",
+      "name": "并行科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-01",
+        "total_shares": 59709405.0,
+        "float_shares": 43796448.0,
+        "tick_size": 0.01,
+        "limit_up": 225.68,
+        "limit_down": 121.52
+      }
+    },
+    {
+      "symbol": "920496.BJ",
+      "exchange": "BJ",
+      "code": "920496",
+      "name": "许昌智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-01-26",
+        "total_shares": 165575000.0,
+        "float_shares": 144998432.0,
+        "tick_size": 0.01,
+        "limit_up": 14.11,
+        "limit_down": 7.61
+      }
+    },
+    {
+      "symbol": "920504.BJ",
+      "exchange": "BJ",
+      "code": "920504",
+      "name": "博迅生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-17",
+        "total_shares": 43333100.0,
+        "float_shares": 17091905.0,
+        "tick_size": 0.01,
+        "limit_up": 31.4,
+        "limit_down": 16.92
+      }
+    },
+    {
+      "symbol": "920505.BJ",
+      "exchange": "BJ",
+      "code": "920505",
+      "name": "九菱科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-21",
+        "total_shares": 64867730.0,
+        "float_shares": 36093191.0,
+        "tick_size": 0.01,
+        "limit_up": 58.9,
+        "limit_down": 31.72
+      }
+    },
+    {
+      "symbol": "920508.BJ",
+      "exchange": "BJ",
+      "code": "920508",
+      "name": "殷图网联",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 60000000.0,
+        "float_shares": 31905925.0,
+        "tick_size": 0.01,
+        "limit_up": 30.34,
+        "limit_down": 16.34
+      }
+    },
+    {
+      "symbol": "920509.BJ",
+      "exchange": "BJ",
+      "code": "920509",
+      "name": "同惠电子",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-01-11",
+        "total_shares": 160305696.0,
+        "float_shares": 83985512.0,
+        "tick_size": 0.01,
+        "limit_up": 43.48,
+        "limit_down": 23.42
+      }
+    },
+    {
+      "symbol": "920510.BJ",
+      "exchange": "BJ",
+      "code": "920510",
+      "name": "丰光精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-12-28",
+        "total_shares": 184213929.0,
+        "float_shares": 93899078.0,
+        "tick_size": 0.01,
+        "limit_up": 21.15,
+        "limit_down": 11.39
+      }
+    },
+    {
+      "symbol": "920519.BJ",
+      "exchange": "BJ",
+      "code": "920519",
+      "name": "万德股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-15",
+        "total_shares": 89258104.0,
+        "float_shares": 57536711.0,
+        "tick_size": 0.01,
+        "limit_up": 16.57,
+        "limit_down": 8.93
+      }
+    },
+    {
+      "symbol": "920522.BJ",
+      "exchange": "BJ",
+      "code": "920522",
+      "name": "纳科诺尔",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-16",
+        "total_shares": 156750720.0,
+        "float_shares": 130017300.0,
+        "tick_size": 0.01,
+        "limit_up": 74.42,
+        "limit_down": 40.08
+      }
+    },
+    {
+      "symbol": "920523.BJ",
+      "exchange": "BJ",
+      "code": "920523",
+      "name": "德瑞锂电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-06-03",
+        "total_shares": 101301369.0,
+        "float_shares": 80434208.0,
+        "tick_size": 0.01,
+        "limit_up": 33.22,
+        "limit_down": 17.9
+      }
+    },
+    {
+      "symbol": "920526.BJ",
+      "exchange": "BJ",
+      "code": "920526",
+      "name": "凯华材料",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-22",
+        "total_shares": 82700000.0,
+        "float_shares": 52367486.0,
+        "tick_size": 0.01,
+        "limit_up": 28.67,
+        "limit_down": 15.45
+      }
+    },
+    {
+      "symbol": "920527.BJ",
+      "exchange": "BJ",
+      "code": "920527",
+      "name": "夜光明",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-27",
+        "total_shares": 60042700.0,
+        "float_shares": 36293737.0,
+        "tick_size": 0.01,
+        "limit_up": 22.95,
+        "limit_down": 12.37
+      }
+    },
+    {
+      "symbol": "920533.BJ",
+      "exchange": "BJ",
+      "code": "920533",
+      "name": "骏创科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-05-24",
+        "total_shares": 130757328.0,
+        "float_shares": 73137133.0,
+        "tick_size": 0.01,
+        "limit_up": 33.52,
+        "limit_down": 18.06
+      }
+    },
+    {
+      "symbol": "920541.BJ",
+      "exchange": "BJ",
+      "code": "920541",
+      "name": "铁大科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-10",
+        "total_shares": 136700000.0,
+        "float_shares": 90058684.0,
+        "tick_size": 0.01,
+        "limit_up": 18.33,
+        "limit_down": 9.87
+      }
+    },
+    {
+      "symbol": "920547.BJ",
+      "exchange": "BJ",
+      "code": "920547",
+      "name": "无锡晶海",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-12",
+        "total_shares": 77688000.0,
+        "float_shares": 37718400.0,
+        "tick_size": 0.01,
+        "limit_up": 31.48,
+        "limit_down": 16.96
+      }
+    },
+    {
+      "symbol": "920553.BJ",
+      "exchange": "BJ",
+      "code": "920553",
+      "name": "凯腾精工",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-06",
+        "total_shares": 143690460.0,
+        "float_shares": 91013848.0,
+        "tick_size": 0.01,
+        "limit_up": 12.96,
+        "limit_down": 6.98
+      }
+    },
+    {
+      "symbol": "920556.BJ",
+      "exchange": "BJ",
+      "code": "920556",
+      "name": "雅达股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-17",
+        "total_shares": 161315200.0,
+        "float_shares": 117498764.0,
+        "tick_size": 0.01,
+        "limit_up": 14.91,
+        "limit_down": 8.03
+      }
+    },
+    {
+      "symbol": "920564.BJ",
+      "exchange": "BJ",
+      "code": "920564",
+      "name": "天润科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-17",
+        "total_shares": 89103621.0,
+        "float_shares": 40990697.0,
+        "tick_size": 0.01,
+        "limit_up": 33.95,
+        "limit_down": 18.29
+      }
+    },
+    {
+      "symbol": "920566.BJ",
+      "exchange": "BJ",
+      "code": "920566",
+      "name": "梓橦宫",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-13",
+        "total_shares": 145463380.0,
+        "float_shares": 112346561.0,
+        "tick_size": 0.01,
+        "limit_up": 14.54,
+        "limit_down": 7.84
+      }
+    },
+    {
+      "symbol": "920570.BJ",
+      "exchange": "BJ",
+      "code": "920570",
+      "name": "坤博精工",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-23",
+        "total_shares": 50169821.0,
+        "float_shares": 23215432.0,
+        "tick_size": 0.01,
+        "limit_up": 45.14,
+        "limit_down": 24.32
+      }
+    },
+    {
+      "symbol": "920571.BJ",
+      "exchange": "BJ",
+      "code": "920571",
+      "name": "国航远洋",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-15",
+        "total_shares": 555407453.0,
+        "float_shares": 281428886.0,
+        "tick_size": 0.01,
+        "limit_up": 14.17,
+        "limit_down": 7.63
+      }
+    },
+    {
+      "symbol": "920575.BJ",
+      "exchange": "BJ",
+      "code": "920575",
+      "name": "康乐卫士",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-15",
+        "total_shares": 280940000.0,
+        "float_shares": 187838680.0,
+        "tick_size": 0.01,
+        "limit_up": 11.37,
+        "limit_down": 6.13
+      }
+    },
+    {
+      "symbol": "920576.BJ",
+      "exchange": "BJ",
+      "code": "920576",
+      "name": "天力复合",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-12",
+        "total_shares": 108950000.0,
+        "float_shares": 106880154.0,
+        "tick_size": 0.01,
+        "limit_up": 90.74,
+        "limit_down": 48.86
+      }
+    },
+    {
+      "symbol": "920578.BJ",
+      "exchange": "BJ",
+      "code": "920578",
+      "name": "巨能股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-12",
+        "total_shares": 76479097.0,
+        "float_shares": 23000000.0,
+        "tick_size": 0.01,
+        "limit_up": 27.82,
+        "limit_down": 14.98
+      }
+    },
+    {
+      "symbol": "920579.BJ",
+      "exchange": "BJ",
+      "code": "920579",
+      "name": "机科股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-30",
+        "total_shares": 129480000.0,
+        "float_shares": 44574420.0,
+        "tick_size": 0.01,
+        "limit_up": 27.1,
+        "limit_down": 14.6
+      }
+    },
+    {
+      "symbol": "920580.BJ",
+      "exchange": "BJ",
+      "code": "920580",
+      "name": "科创新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-05-13",
+        "total_shares": 86000000.0,
+        "float_shares": 50435536.0,
+        "tick_size": 0.01,
+        "limit_up": 20.38,
+        "limit_down": 10.98
+      }
+    },
+    {
+      "symbol": "920592.BJ",
+      "exchange": "BJ",
+      "code": "920592",
+      "name": "华信永道",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-10",
+        "total_shares": 80795000.0,
+        "float_shares": 50285711.0,
+        "tick_size": 0.01,
+        "limit_up": 44.16,
+        "limit_down": 23.78
+      }
+    },
+    {
+      "symbol": "920593.BJ",
+      "exchange": "BJ",
+      "code": "920593",
+      "name": "鼎智科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-13",
+        "total_shares": 190304392.0,
+        "float_shares": 161610277.0,
+        "tick_size": 0.01,
+        "limit_up": 38.98,
+        "limit_down": 21.0
+      }
+    },
+    {
+      "symbol": "920599.BJ",
+      "exchange": "BJ",
+      "code": "920599",
+      "name": "同力股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-22",
+        "total_shares": 462525000.0,
+        "float_shares": 350574346.0,
+        "tick_size": 0.01,
+        "limit_up": 26.06,
+        "limit_down": 14.04
+      }
+    },
+    {
+      "symbol": "920608.BJ",
+      "exchange": "BJ",
+      "code": "920608",
+      "name": "丰安股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-16",
+        "total_shares": 62240000.0,
+        "float_shares": 39411965.0,
+        "tick_size": 0.01,
+        "limit_up": 23.85,
+        "limit_down": 12.85
+      }
+    },
+    {
+      "symbol": "920627.BJ",
+      "exchange": "BJ",
+      "code": "920627",
+      "name": "力王股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-07",
+        "total_shares": 94450000.0,
+        "float_shares": 46787500.0,
+        "tick_size": 0.01,
+        "limit_up": 30.44,
+        "limit_down": 16.4
+      }
+    },
+    {
+      "symbol": "920634.BJ",
+      "exchange": "BJ",
+      "code": "920634",
+      "name": "新威凌",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-24",
+        "total_shares": 63908766.0,
+        "float_shares": 40458463.0,
+        "tick_size": 0.01,
+        "limit_up": 31.53,
+        "limit_down": 16.99
+      }
+    },
+    {
+      "symbol": "920639.BJ",
+      "exchange": "BJ",
+      "code": "920639",
+      "name": "晨光电缆",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-12",
+        "total_shares": 201600000.0,
+        "float_shares": 118753634.0,
+        "tick_size": 0.01,
+        "limit_up": 11.44,
+        "limit_down": 6.16
+      }
+    },
+    {
+      "symbol": "920640.BJ",
+      "exchange": "BJ",
+      "code": "920640",
+      "name": "富士达",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 187728000.0,
+        "float_shares": 180311935.0,
+        "tick_size": 0.01,
+        "limit_up": 50.27,
+        "limit_down": 27.07
+      }
+    },
+    {
+      "symbol": "920641.BJ",
+      "exchange": "BJ",
+      "code": "920641",
+      "name": "格利尔",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-02",
+        "total_shares": 75075000.0,
+        "float_shares": 45421626.0,
+        "tick_size": 0.01,
+        "limit_up": 26.63,
+        "limit_down": 14.35
+      }
+    },
+    {
+      "symbol": "920642.BJ",
+      "exchange": "BJ",
+      "code": "920642",
+      "name": "通易航天",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-08-16",
+        "total_shares": 103670278.0,
+        "float_shares": 99956878.0,
+        "tick_size": 0.01,
+        "limit_up": 18.4,
+        "limit_down": 9.92
+      }
+    },
+    {
+      "symbol": "920651.BJ",
+      "exchange": "BJ",
+      "code": "920651",
+      "name": "天罡股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-27",
+        "total_shares": 61000000.0,
+        "float_shares": 15274871.0,
+        "tick_size": 0.01,
+        "limit_up": 45.38,
+        "limit_down": 24.44
+      }
+    },
+    {
+      "symbol": "920656.BJ",
+      "exchange": "BJ",
+      "code": "920656",
+      "name": "海昇药业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-02-02",
+        "total_shares": 100000000.0,
+        "float_shares": 32376281.0,
+        "tick_size": 0.01,
+        "limit_up": 21.86,
+        "limit_down": 11.78
+      }
+    },
+    {
+      "symbol": "920662.BJ",
+      "exchange": "BJ",
+      "code": "920662",
+      "name": "方盛股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-28",
+        "total_shares": 87550002.0,
+        "float_shares": 27006082.0,
+        "tick_size": 0.01,
+        "limit_up": 36.1,
+        "limit_down": 19.44
+      }
+    },
+    {
+      "symbol": "920663.BJ",
+      "exchange": "BJ",
+      "code": "920663",
+      "name": "明阳科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-15",
+        "total_shares": 133552510.0,
+        "float_shares": 64076520.0,
+        "tick_size": 0.01,
+        "limit_up": 20.07,
+        "limit_down": 10.81
+      }
+    },
+    {
+      "symbol": "920665.BJ",
+      "exchange": "BJ",
+      "code": "920665",
+      "name": "科强股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-26",
+        "total_shares": 129990000.0,
+        "float_shares": 64071668.0,
+        "tick_size": 0.01,
+        "limit_up": 16.02,
+        "limit_down": 8.64
+      }
+    },
+    {
+      "symbol": "920670.BJ",
+      "exchange": "BJ",
+      "code": "920670",
+      "name": "数字人",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-12-08",
+        "total_shares": 106182400.0,
+        "float_shares": 66633608.0,
+        "tick_size": 0.01,
+        "limit_up": 24.4,
+        "limit_down": 13.14
+      }
+    },
+    {
+      "symbol": "920675.BJ",
+      "exchange": "BJ",
+      "code": "920675",
+      "name": "秉扬科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-12-28",
+        "total_shares": 172164000.0,
+        "float_shares": 79017870.0,
+        "tick_size": 0.01,
+        "limit_up": 15.18,
+        "limit_down": 8.18
+      }
+    },
+    {
+      "symbol": "920679.BJ",
+      "exchange": "BJ",
+      "code": "920679",
+      "name": "前进科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-10",
+        "total_shares": 55850000.0,
+        "float_shares": 37175000.0,
+        "tick_size": 0.01,
+        "limit_up": 25.7,
+        "limit_down": 13.84
+      }
+    },
+    {
+      "symbol": "920682.BJ",
+      "exchange": "BJ",
+      "code": "920682",
+      "name": "球冠电缆",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 324480000.0,
+        "float_shares": 188172322.0,
+        "tick_size": 0.01,
+        "limit_up": 12.44,
+        "limit_down": 6.7
+      }
+    },
+    {
+      "symbol": "920685.BJ",
+      "exchange": "BJ",
+      "code": "920685",
+      "name": "新芝生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-10",
+        "total_shares": 91515941.0,
+        "float_shares": 54903900.0,
+        "tick_size": 0.01,
+        "limit_up": 17.77,
+        "limit_down": 9.57
+      }
+    },
+    {
+      "symbol": "920689.BJ",
+      "exchange": "BJ",
+      "code": "920689",
+      "name": "克莱特",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-03-21",
+        "total_shares": 73400000.0,
+        "float_shares": 37930617.0,
+        "tick_size": 0.01,
+        "limit_up": 44.65,
+        "limit_down": 24.05
+      }
+    },
+    {
+      "symbol": "920690.BJ",
+      "exchange": "BJ",
+      "code": "920690",
+      "name": "捷众科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-01-05",
+        "total_shares": 66300000.0,
+        "float_shares": 43099080.0,
+        "tick_size": 0.01,
+        "limit_up": 37.14,
+        "limit_down": 20.0
+      }
+    },
+    {
+      "symbol": "920693.BJ",
+      "exchange": "BJ",
+      "code": "920693",
+      "name": "阿为特",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-10-27",
+        "total_shares": 72700000.0,
+        "float_shares": 36610000.0,
+        "tick_size": 0.01,
+        "limit_up": 40.79,
+        "limit_down": 21.97
+      }
+    },
+    {
+      "symbol": "920694.BJ",
+      "exchange": "BJ",
+      "code": "920694",
+      "name": "中裕科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-24",
+        "total_shares": 132088476.0,
+        "float_shares": 62490441.0,
+        "tick_size": 0.01,
+        "limit_up": 25.76,
+        "limit_down": 13.88
+      }
+    },
+    {
+      "symbol": "920699.BJ",
+      "exchange": "BJ",
+      "code": "920699",
+      "name": "海达尔",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-09",
+        "total_shares": 45625300.0,
+        "float_shares": 20875300.0,
+        "tick_size": 0.01,
+        "limit_up": 57.27,
+        "limit_down": 30.85
+      }
+    },
+    {
+      "symbol": "920701.BJ",
+      "exchange": "BJ",
+      "code": "920701",
+      "name": "豪声电子",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-19",
+        "total_shares": 137200000.0,
+        "float_shares": 100207240.0,
+        "tick_size": 0.01,
+        "limit_up": 22.43,
+        "limit_down": 12.09
+      }
+    },
+    {
+      "symbol": "920703.BJ",
+      "exchange": "BJ",
+      "code": "920703",
+      "name": "广厦环能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-12-05",
+        "total_shares": 150724000.0,
+        "float_shares": 76265147.0,
+        "tick_size": 0.01,
+        "limit_up": 19.73,
+        "limit_down": 10.63
+      }
+    },
+    {
+      "symbol": "920706.BJ",
+      "exchange": "BJ",
+      "code": "920706",
+      "name": "铁拓机械",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-03-08",
+        "total_shares": 92405245.0,
+        "float_shares": 42346870.0,
+        "tick_size": 0.01,
+        "limit_up": 34.97,
+        "limit_down": 18.83
+      }
+    },
+    {
+      "symbol": "920717.BJ",
+      "exchange": "BJ",
+      "code": "920717",
+      "name": "瑞星股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-03",
+        "total_shares": 114680000.0,
+        "float_shares": 44280000.0,
+        "tick_size": 0.01,
+        "limit_up": 13.36,
+        "limit_down": 7.2
+      }
+    },
+    {
+      "symbol": "920718.BJ",
+      "exchange": "BJ",
+      "code": "920718",
+      "name": "合肥高科",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-22",
+        "total_shares": 90666700.0,
+        "float_shares": 43110142.0,
+        "tick_size": 0.01,
+        "limit_up": 18.36,
+        "limit_down": 9.9
+      }
+    },
+    {
+      "symbol": "920719.BJ",
+      "exchange": "BJ",
+      "code": "920719",
+      "name": "宁新新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-26",
+        "total_shares": 93093400.0,
+        "float_shares": 73193662.0,
+        "tick_size": 0.01,
+        "limit_up": 16.53,
+        "limit_down": 8.91
+      }
+    },
+    {
+      "symbol": "920720.BJ",
+      "exchange": "BJ",
+      "code": "920720",
+      "name": "吉冈精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-24",
+        "total_shares": 264674340.0,
+        "float_shares": 74017173.0,
+        "tick_size": 0.01,
+        "limit_up": 17.13,
+        "limit_down": 9.23
+      }
+    },
+    {
+      "symbol": "920725.BJ",
+      "exchange": "BJ",
+      "code": "920725",
+      "name": "惠丰钻石",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-18",
+        "total_shares": 91275000.0,
+        "float_shares": 41569880.0,
+        "tick_size": 0.01,
+        "limit_up": 47.09,
+        "limit_down": 25.37
+      }
+    },
+    {
+      "symbol": "920726.BJ",
+      "exchange": "BJ",
+      "code": "920726",
+      "name": "朱老六",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-05-27",
+        "total_shares": 101670000.0,
+        "float_shares": 55913455.0,
+        "tick_size": 0.01,
+        "limit_up": 25.22,
+        "limit_down": 13.58
+      }
+    },
+    {
+      "symbol": "920729.BJ",
+      "exchange": "BJ",
+      "code": "920729",
+      "name": "永顺生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 273350000.0,
+        "float_shares": 76825041.0,
+        "tick_size": 0.01,
+        "limit_up": 11.57,
+        "limit_down": 6.23
+      }
+    },
+    {
+      "symbol": "920735.BJ",
+      "exchange": "BJ",
+      "code": "920735",
+      "name": "德源药业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-19",
+        "total_shares": 117315990.0,
+        "float_shares": 103757231.0,
+        "tick_size": 0.01,
+        "limit_up": 43.94,
+        "limit_down": 23.66
+      }
+    },
+    {
+      "symbol": "920748.BJ",
+      "exchange": "BJ",
+      "code": "920748",
+      "name": "路桥信息",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-16",
+        "total_shares": 76740000.0,
+        "float_shares": 35666034.0,
+        "tick_size": 0.01,
+        "limit_up": 53.35,
+        "limit_down": 28.73
+      }
+    },
+    {
+      "symbol": "920751.BJ",
+      "exchange": "BJ",
+      "code": "920751",
+      "name": "惠同新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-17",
+        "total_shares": 86780000.0,
+        "float_shares": 82997125.0,
+        "tick_size": 0.01,
+        "limit_up": 30.14,
+        "limit_down": 16.24
+      }
+    },
+    {
+      "symbol": "920753.BJ",
+      "exchange": "BJ",
+      "code": "920753",
+      "name": "天纺标",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-31",
+        "total_shares": 81404368.0,
+        "float_shares": 32381525.0,
+        "tick_size": 0.01,
+        "limit_up": 27.91,
+        "limit_down": 15.03
+      }
+    },
+    {
+      "symbol": "920765.BJ",
+      "exchange": "BJ",
+      "code": "920765",
+      "name": "美之高",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-07-05",
+        "total_shares": 86920077.0,
+        "float_shares": 52807104.0,
+        "tick_size": 0.01,
+        "limit_up": 22.32,
+        "limit_down": 12.02
+      }
+    },
+    {
+      "symbol": "920768.BJ",
+      "exchange": "BJ",
+      "code": "920768",
+      "name": "拾比佰",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-06-28",
+        "total_shares": 110970000.0,
+        "float_shares": 76494286.0,
+        "tick_size": 0.01,
+        "limit_up": 15.83,
+        "limit_down": 8.53
+      }
+    },
+    {
+      "symbol": "920770.BJ",
+      "exchange": "BJ",
+      "code": "920770",
+      "name": "艾能聚",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-28",
+        "total_shares": 130132175.0,
+        "float_shares": 80451802.0,
+        "tick_size": 0.01,
+        "limit_up": 24.73,
+        "limit_down": 13.33
+      }
+    },
+    {
+      "symbol": "920779.BJ",
+      "exchange": "BJ",
+      "code": "920779",
+      "name": "武汉蓝电",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-06-01",
+        "total_shares": 80074720.0,
+        "float_shares": 20033202.0,
+        "tick_size": 0.01,
+        "limit_up": 49.21,
+        "limit_down": 26.51
+      }
+    },
+    {
+      "symbol": "920781.BJ",
+      "exchange": "BJ",
+      "code": "920781",
+      "name": "瑞奇智造",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-26",
+        "total_shares": 154567054.0,
+        "float_shares": 102119005.0,
+        "tick_size": 0.01,
+        "limit_up": 11.68,
+        "limit_down": 6.3
+      }
+    },
+    {
+      "symbol": "920786.BJ",
+      "exchange": "BJ",
+      "code": "920786",
+      "name": "骑士乳业",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-10-13",
+        "total_shares": 209053000.0,
+        "float_shares": 141446455.0,
+        "tick_size": 0.01,
+        "limit_up": 12.36,
+        "limit_down": 6.66
+      }
+    },
+    {
+      "symbol": "920790.BJ",
+      "exchange": "BJ",
+      "code": "920790",
+      "name": "联迪信息",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-02",
+        "total_shares": 78967020.0,
+        "float_shares": 54348958.0,
+        "tick_size": 0.01,
+        "limit_up": 39.66,
+        "limit_down": 21.36
+      }
+    },
+    {
+      "symbol": "920792.BJ",
+      "exchange": "BJ",
+      "code": "920792",
+      "name": "东和新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-30",
+        "total_shares": 165540000.0,
+        "float_shares": 99936338.0,
+        "tick_size": 0.01,
+        "limit_up": 16.78,
+        "limit_down": 9.04
+      }
+    },
+    {
+      "symbol": "920799.BJ",
+      "exchange": "BJ",
+      "code": "920799",
+      "name": "艾融软件",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 209780050.0,
+        "float_shares": 120704571.0,
+        "tick_size": 0.01,
+        "limit_up": 52.91,
+        "limit_down": 28.49
+      }
+    },
+    {
+      "symbol": "920802.BJ",
+      "exchange": "BJ",
+      "code": "920802",
+      "name": "保丽洁",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-06",
+        "total_shares": 82008290.0,
+        "float_shares": 22098593.0,
+        "tick_size": 0.01,
+        "limit_up": 19.81,
+        "limit_down": 10.67
+      }
+    },
+    {
+      "symbol": "920806.BJ",
+      "exchange": "BJ",
+      "code": "920806",
+      "name": "云星宇",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-01-11",
+        "total_shares": 300736667.0,
+        "float_shares": 300736667.0,
+        "tick_size": 0.01,
+        "limit_up": 16.36,
+        "limit_down": 8.82
+      }
+    },
+    {
+      "symbol": "920807.BJ",
+      "exchange": "BJ",
+      "code": "920807",
+      "name": "奔朗新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-20",
+        "total_shares": 181880000.0,
+        "float_shares": 123535500.0,
+        "tick_size": 0.01,
+        "limit_up": 18.27,
+        "limit_down": 9.85
+      }
+    },
+    {
+      "symbol": "920808.BJ",
+      "exchange": "BJ",
+      "code": "920808",
+      "name": "曙光数创",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-18",
+        "total_shares": 200000001.0,
+        "float_shares": 194572179.0,
+        "tick_size": 0.01,
+        "limit_up": 106.09,
+        "limit_down": 57.13
+      }
+    },
+    {
+      "symbol": "920809.BJ",
+      "exchange": "BJ",
+      "code": "920809",
+      "name": "安达科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-23",
+        "total_shares": 599050000.0,
+        "float_shares": 459107148.0,
+        "tick_size": 0.01,
+        "limit_up": 9.59,
+        "limit_down": 5.17
+      }
+    },
+    {
+      "symbol": "920810.BJ",
+      "exchange": "BJ",
+      "code": "920810",
+      "name": "春光智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-16",
+        "total_shares": 95900000.0,
+        "float_shares": 62407545.0,
+        "tick_size": 0.01,
+        "limit_up": 16.17,
+        "limit_down": 8.71
+      }
+    },
+    {
+      "symbol": "920819.BJ",
+      "exchange": "BJ",
+      "code": "920819",
+      "name": "颖泰生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 1225800000.0,
+        "float_shares": 1211625000.0,
+        "tick_size": 0.01,
+        "limit_up": 5.1,
+        "limit_down": 2.76
+      }
+    },
+    {
+      "symbol": "920821.BJ",
+      "exchange": "BJ",
+      "code": "920821",
+      "name": "则成电子",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-06",
+        "total_shares": 138361899.0,
+        "float_shares": 72853422.0,
+        "tick_size": 0.01,
+        "limit_up": 29.51,
+        "limit_down": 15.89
+      }
+    },
+    {
+      "symbol": "920826.BJ",
+      "exchange": "BJ",
+      "code": "920826",
+      "name": "盖世食品",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-01-12",
+        "total_shares": 140515814.0,
+        "float_shares": 62474473.0,
+        "tick_size": 0.01,
+        "limit_up": 15.24,
+        "limit_down": 8.22
+      }
+    },
+    {
+      "symbol": "920832.BJ",
+      "exchange": "BJ",
+      "code": "920832",
+      "name": "齐鲁华信",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-02-23",
+        "total_shares": 138763865.0,
+        "float_shares": 123341585.0,
+        "tick_size": 0.01,
+        "limit_up": 9.65,
+        "limit_down": 5.21
+      }
+    },
+    {
+      "symbol": "920833.BJ",
+      "exchange": "BJ",
+      "code": "920833",
+      "name": "美心翼申",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-11-08",
+        "total_shares": 82360000.0,
+        "float_shares": 62459250.0,
+        "tick_size": 0.01,
+        "limit_up": 23.76,
+        "limit_down": 12.8
+      }
+    },
+    {
+      "symbol": "920834.BJ",
+      "exchange": "BJ",
+      "code": "920834",
+      "name": "三维装备",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-08-22",
+        "total_shares": 120000005.0,
+        "float_shares": 62796439.0,
+        "tick_size": 0.01,
+        "limit_up": 18.05,
+        "limit_down": 9.73
+      }
+    },
+    {
+      "symbol": "920837.BJ",
+      "exchange": "BJ",
+      "code": "920837",
+      "name": "华原股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-05-15",
+        "total_shares": 151712787.0,
+        "float_shares": 136787787.0,
+        "tick_size": 0.01,
+        "limit_up": 19.43,
+        "limit_down": 10.47
+      }
+    },
+    {
+      "symbol": "920839.BJ",
+      "exchange": "BJ",
+      "code": "920839",
+      "name": "万通液压",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-11-09",
+        "total_shares": 118209971.0,
+        "float_shares": 65045096.0,
+        "tick_size": 0.01,
+        "limit_up": 46.54,
+        "limit_down": 25.06
+      }
+    },
+    {
+      "symbol": "920855.BJ",
+      "exchange": "BJ",
+      "code": "920855",
+      "name": "浙江大农",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-29",
+        "total_shares": 74733333.0,
+        "float_shares": 67036911.0,
+        "tick_size": 0.01,
+        "limit_up": 22.6,
+        "limit_down": 12.18
+      }
+    },
+    {
+      "symbol": "920856.BJ",
+      "exchange": "BJ",
+      "code": "920856",
+      "name": "浩淼科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-12-25",
+        "total_shares": 95126628.0,
+        "float_shares": 53060037.0,
+        "tick_size": 0.01,
+        "limit_up": 19.08,
+        "limit_down": 10.28
+      }
+    },
+    {
+      "symbol": "920857.BJ",
+      "exchange": "BJ",
+      "code": "920857",
+      "name": "泓禧科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-02-28",
+        "total_shares": 74007152.0,
+        "float_shares": 74007152.0,
+        "tick_size": 0.01,
+        "limit_up": 33.55,
+        "limit_down": 18.07
+      }
+    },
+    {
+      "symbol": "920866.BJ",
+      "exchange": "BJ",
+      "code": "920866",
+      "name": "绿亨科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-09",
+        "total_shares": 180205900.0,
+        "float_shares": 114112299.0,
+        "tick_size": 0.01,
+        "limit_up": 10.99,
+        "limit_down": 5.93
+      }
+    },
+    {
+      "symbol": "920870.BJ",
+      "exchange": "BJ",
+      "code": "920870",
+      "name": "恒进感应",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-05",
+        "total_shares": 134000000.0,
+        "float_shares": 66002900.0,
+        "tick_size": 0.01,
+        "limit_up": 22.15,
+        "limit_down": 11.93
+      }
+    },
+    {
+      "symbol": "920871.BJ",
+      "exchange": "BJ",
+      "code": "920871",
+      "name": "派特尔",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-07-22",
+        "total_shares": 85015641.0,
+        "float_shares": 46835747.0,
+        "tick_size": 0.01,
+        "limit_up": 18.72,
+        "limit_down": 10.08
+      }
+    },
+    {
+      "symbol": "920873.BJ",
+      "exchange": "BJ",
+      "code": "920873",
+      "name": "中设咨询",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 153387002.0,
+        "float_shares": 119806395.0,
+        "tick_size": 0.01,
+        "limit_up": 9.94,
+        "limit_down": 5.36
+      }
+    },
+    {
+      "symbol": "920876.BJ",
+      "exchange": "BJ",
+      "code": "920876",
+      "name": "慧为智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-09",
+        "total_shares": 64180659.0,
+        "float_shares": 38565839.0,
+        "tick_size": 0.01,
+        "limit_up": 37.27,
+        "limit_down": 20.07
+      }
+    },
+    {
+      "symbol": "920879.BJ",
+      "exchange": "BJ",
+      "code": "920879",
+      "name": "基康技术",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-20",
+        "total_shares": 167390679.0,
+        "float_shares": 130807433.0,
+        "tick_size": 0.01,
+        "limit_up": 30.09,
+        "limit_down": 16.21
+      }
+    },
+    {
+      "symbol": "920885.BJ",
+      "exchange": "BJ",
+      "code": "920885",
+      "name": "星辰科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-07-08",
+        "total_shares": 170819900.0,
+        "float_shares": 88503196.0,
+        "tick_size": 0.01,
+        "limit_up": 27.96,
+        "limit_down": 15.06
+      }
+    },
+    {
+      "symbol": "920892.BJ",
+      "exchange": "BJ",
+      "code": "920892",
+      "name": "广咨国际",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-10-28",
+        "total_shares": 170351353.0,
+        "float_shares": 148284607.0,
+        "tick_size": 0.01,
+        "limit_up": 20.33,
+        "limit_down": 10.95
+      }
+    },
+    {
+      "symbol": "920895.BJ",
+      "exchange": "BJ",
+      "code": "920895",
+      "name": "花溪科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-06",
+        "total_shares": 56524000.0,
+        "float_shares": 28736900.0,
+        "tick_size": 0.01,
+        "limit_up": 24.46,
+        "limit_down": 13.18
+      }
+    },
+    {
+      "symbol": "920896.BJ",
+      "exchange": "BJ",
+      "code": "920896",
+      "name": "旺成科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-04-19",
+        "total_shares": 101224240.0,
+        "float_shares": 44302685.0,
+        "tick_size": 0.01,
+        "limit_up": 24.63,
+        "limit_down": 13.27
+      }
+    },
+    {
+      "symbol": "920906.BJ",
+      "exchange": "BJ",
+      "code": "920906",
+      "name": "舜宇精工",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-02-22",
+        "total_shares": 64970000.0,
+        "float_shares": 33355723.0,
+        "tick_size": 0.01,
+        "limit_up": 33.95,
+        "limit_down": 18.29
+      }
+    },
+    {
+      "symbol": "920914.BJ",
+      "exchange": "BJ",
+      "code": "920914",
+      "name": "远航精密",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-11-11",
+        "total_shares": 99598000.0,
+        "float_shares": 99519250.0,
+        "tick_size": 0.01,
+        "limit_up": 33.72,
+        "limit_down": 18.16
+      }
+    },
+    {
+      "symbol": "920924.BJ",
+      "exchange": "BJ",
+      "code": "920924",
+      "name": "广脉科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-03",
+        "total_shares": 107296500.0,
+        "float_shares": 65372141.0,
+        "tick_size": 0.01,
+        "limit_up": 28.92,
+        "limit_down": 15.58
+      }
+    },
+    {
+      "symbol": "920925.BJ",
+      "exchange": "BJ",
+      "code": "920925",
+      "name": "锦好医疗",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-10-25",
+        "total_shares": 98460643.0,
+        "float_shares": 55295053.0,
+        "tick_size": 0.01,
+        "limit_up": 25.88,
+        "limit_down": 13.94
+      }
+    },
+    {
+      "symbol": "920926.BJ",
+      "exchange": "BJ",
+      "code": "920926",
+      "name": "鸿智科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-08",
+        "total_shares": 88361737.0,
+        "float_shares": 80182379.0,
+        "tick_size": 0.01,
+        "limit_up": 20.54,
+        "limit_down": 11.06
+      }
+    },
+    {
+      "symbol": "920931.BJ",
+      "exchange": "BJ",
+      "code": "920931",
+      "name": "无锡鼎邦",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2024-04-08",
+        "total_shares": 93930000.0,
+        "float_shares": 28775800.0,
+        "tick_size": 0.01,
+        "limit_up": 17.43,
+        "limit_down": 9.39
+      }
+    },
+    {
+      "symbol": "920932.BJ",
+      "exchange": "BJ",
+      "code": "920932",
+      "name": "科达自控",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 105350350.0,
+        "float_shares": 86813146.0,
+        "tick_size": 0.01,
+        "limit_up": 22.63,
+        "limit_down": 12.19
+      }
+    },
+    {
+      "symbol": "920942.BJ",
+      "exchange": "BJ",
+      "code": "920942",
+      "name": "恒立钻具",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-08",
+        "total_shares": 61327100.0,
+        "float_shares": 41376352.0,
+        "tick_size": 0.01,
+        "limit_up": 37.97,
+        "limit_down": 20.45
+      }
+    },
+    {
+      "symbol": "920943.BJ",
+      "exchange": "BJ",
+      "code": "920943",
+      "name": "优机股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-06-24",
+        "total_shares": 101521378.0,
+        "float_shares": 51807833.0,
+        "tick_size": 0.01,
+        "limit_up": 29.91,
+        "limit_down": 16.11
+      }
+    },
+    {
+      "symbol": "920946.BJ",
+      "exchange": "BJ",
+      "code": "920946",
+      "name": "森萱医药",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 426918340.0,
+        "float_shares": 426787090.0,
+        "tick_size": 0.01,
+        "limit_up": 13.46,
+        "limit_down": 7.26
+      }
+    },
+    {
+      "symbol": "920950.BJ",
+      "exchange": "BJ",
+      "code": "920950",
+      "name": "迅安科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-01-11",
+        "total_shares": 73320000.0,
+        "float_shares": 35720100.0,
+        "tick_size": 0.01,
+        "limit_up": 22.78,
+        "limit_down": 12.28
+      }
+    },
+    {
+      "symbol": "920953.BJ",
+      "exchange": "BJ",
+      "code": "920953",
+      "name": "国子软件",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-08-23",
+        "total_shares": 128115990.0,
+        "float_shares": 59885753.0,
+        "tick_size": 0.01,
+        "limit_up": 43.83,
+        "limit_down": 23.61
+      }
+    },
+    {
+      "symbol": "920957.BJ",
+      "exchange": "BJ",
+      "code": "920957",
+      "name": "汉维科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-12-14",
+        "total_shares": 107301334.0,
+        "float_shares": 42704734.0,
+        "tick_size": 0.01,
+        "limit_up": 16.28,
+        "limit_down": 8.78
+      }
+    },
+    {
+      "symbol": "920961.BJ",
+      "exchange": "BJ",
+      "code": "920961",
+      "name": "创远信科",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 142840508.0,
+        "float_shares": 101647572.0,
+        "tick_size": 0.01,
+        "limit_up": 33.64,
+        "limit_down": 18.12
+      }
+    },
+    {
+      "symbol": "920964.BJ",
+      "exchange": "BJ",
+      "code": "920964",
+      "name": "润农节水",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2020-07-27",
+        "total_shares": 261208000.0,
+        "float_shares": 147697237.0,
+        "tick_size": 0.01,
+        "limit_up": 8.71,
+        "limit_down": 4.69
+      }
+    },
+    {
+      "symbol": "920970.BJ",
+      "exchange": "BJ",
+      "code": "920970",
+      "name": "大禹生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-05-18",
+        "total_shares": 110800800.0,
+        "float_shares": 70071300.0,
+        "tick_size": 0.01,
+        "limit_up": 10.06,
+        "limit_down": 5.42
+      }
+    },
+    {
+      "symbol": "920971.BJ",
+      "exchange": "BJ",
+      "code": "920971",
+      "name": "天马新材",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-09-27",
+        "total_shares": 105088002.0,
+        "float_shares": 85702802.0,
+        "tick_size": 0.01,
+        "limit_up": 38.22,
+        "limit_down": 20.58
+      }
+    },
+    {
+      "symbol": "920974.BJ",
+      "exchange": "BJ",
+      "code": "920974",
+      "name": "凯大催化",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-03-08",
+        "total_shares": 163800000.0,
+        "float_shares": 128451794.0,
+        "tick_size": 0.01,
+        "limit_up": 11.47,
+        "limit_down": 6.19
+      }
+    },
+    {
+      "symbol": "920976.BJ",
+      "exchange": "BJ",
+      "code": "920976",
+      "name": "视声智能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-01",
+        "total_shares": 70953400.0,
+        "float_shares": 44119600.0,
+        "tick_size": 0.01,
+        "limit_up": 41.86,
+        "limit_down": 22.54
+      }
+    },
+    {
+      "symbol": "920978.BJ",
+      "exchange": "BJ",
+      "code": "920978",
+      "name": "开特股份",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-09-28",
+        "total_shares": 180028468.0,
+        "float_shares": 100934948.0,
+        "tick_size": 0.01,
+        "limit_up": 34.77,
+        "limit_down": 18.73
+      }
+    },
+    {
+      "symbol": "920981.BJ",
+      "exchange": "BJ",
+      "code": "920981",
+      "name": "晶赛科技",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2021-11-15",
+        "total_shares": 76468000.0,
+        "float_shares": 37309618.0,
+        "tick_size": 0.01,
+        "limit_up": 39.97,
+        "limit_down": 21.53
+      }
+    },
+    {
+      "symbol": "920982.BJ",
+      "exchange": "BJ",
+      "code": "920982",
+      "name": "锦波生物",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2023-07-20",
+        "total_shares": 115065340.0,
+        "float_shares": 54905088.0,
+        "tick_size": 0.01,
+        "limit_up": 243.49,
+        "limit_down": 131.11
+      }
+    },
+    {
+      "symbol": "920985.BJ",
+      "exchange": "BJ",
+      "code": "920985",
+      "name": "海泰新能",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-08-08",
+        "total_shares": 309476200.0,
+        "float_shares": 219317859.0,
+        "tick_size": 0.01,
+        "limit_up": 10.56,
+        "limit_down": 5.7
+      }
+    },
+    {
+      "symbol": "920992.BJ",
+      "exchange": "BJ",
+      "code": "920992",
+      "name": "中科美菱",
+      "region": "CN",
+      "type": "stock",
+      "ext": {
+        "type": "cn_equity",
+        "listing_date": "2022-10-18",
+        "total_shares": 96730934.0,
+        "float_shares": 48517983.0,
+        "tick_size": 0.01,
+        "limit_up": 20.35,
+        "limit_down": 10.97
+      }
+    }
+  ]
+}
