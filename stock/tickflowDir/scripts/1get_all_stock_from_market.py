@@ -13,7 +13,7 @@ market_list = [
     'SH',
     'SZ',
     'BJ',
-    'HK',
+    # 'HK',
 ]
 
 
