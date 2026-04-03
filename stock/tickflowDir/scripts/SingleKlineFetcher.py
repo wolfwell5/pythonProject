@@ -169,7 +169,6 @@ def find_latest_csv(data_dir, code):
 
     csv_files.sort(reverse=True)
     latest_file = os.path.join(data_dir, csv_files[0])
-    print(f"使用最新的 CSV 文件：{csv_files[0]}")
 
     return latest_file, csv_files
 
@@ -248,15 +247,10 @@ class SingleKlineFetcher:
                 start_date = (last_date + timedelta(days=1)).strftime('%Y-%m-%d')
 
         # 获取数据
-        print(f"正在获取 {code} 的数据...")
-        start_time = time.time()
         df = get_kline_data(code, self.api_key, count, period, adjust)
-        end_time = time.time()
-        print(f"get data cost: {(end_time - start_time):.2f} 秒")
 
         # 日期过滤
         if start_date:
-            print(f"过滤日期范围：{start_date} 至 {end_date or '今天'}")
             df = filter_by_date(df, start_date, end_date)
             print(f"过滤后剩余 {len(df)} 条记录")
 
@@ -310,35 +304,3 @@ class SingleKlineFetcher:
         df_unique.to_csv(latest_file, index=False)
 
         print(f"✓ 已追加 {len(df_new)} 条记录到：{latest_file}")
-        print(f"  合并后总计 {len(df_unique)} 条记录")
-
-
-# ============================================================
-# 使用示例
-# ============================================================
-
-if __name__ == '__main__':
-    # 示例 1：直接使用工具函数（简单场景）
-    print("=" * 60)
-    print("示例 1：使用工具函数")
-    print("=" * 60)
-
-    # df = get_kline_data("300164.SZ", count=100)
-    # print(f"获取成功：{len(df)} 条记录")
-    # print(df.tail())
-
-    # # 示例 2：使用类（完整流程）
-    # print("\n" + "=" * 60)
-    # print("示例 2：使用 SingleKlineFetcher 类")
-    # print("=" * 60)
-    #
-    fetcher = SingleKlineFetcher()
-    #
-    # # 全量获取
-    # df = fetcher.fetch("300164.SZ", count=1000)
-
-    # 增量更新
-    df = fetcher.fetch("300164.SZ", incremental=True)
-
-    # 指定日期范围
-    # df = fetcher.fetch("300164.SZ", start_date="2024-01-01")
