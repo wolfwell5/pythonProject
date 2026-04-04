@@ -17,7 +17,7 @@ stock_dir = os.path.dirname(os.path.dirname(script_dir))  # stock 目录
 sys.path.insert(0, stock_dir)
 
 import pandas as pd
-from akShare.util.csv import generate_csv
+from akShare.util.csv_utils import generate_csv
 from tickflow import TickFlow
 
 
