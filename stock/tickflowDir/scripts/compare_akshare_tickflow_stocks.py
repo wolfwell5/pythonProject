@@ -5,7 +5,31 @@
 import json
 import csv
 import os
+import glob
+import re
 from pathlib import Path
+from datetime import datetime
+
+
+def get_latest_akshare_csv(directory):
+    """获取目录下日期最新的 akShare CSV 文件"""
+    pattern = os.path.join(directory, '2026-*_stocks.csv')
+    csv_files = glob.glob(pattern)
+    
+    if not csv_files:
+        raise FileNotFoundError(f"在 {directory} 目录下未找到匹配的 CSV 文件")
+    
+    # 从文件名中提取日期并排序
+    def extract_date(filepath):
+        filename = os.path.basename(filepath)
+        match = re.search(r'(\d{4}-\d{2}-\d{2})', filename)
+        if match:
+            return datetime.strptime(match.group(1), '%Y-%m-%d')
+        return datetime.min
+    
+    # 按日期排序，返回最新的文件
+    latest_file = max(csv_files, key=extract_date)
+    return latest_file
 
 
 def load_akshare_stocks(csv_file):
@@ -81,9 +105,9 @@ def save_missing_stocks(missing_codes, all_stocks, output_file):
 
 def main():
     # 文件路径
-    akshare_csv = r'E:\Develop\Repos\pythonProject\stock\akShare\data\basic_info\stocks\2026-03-29-12-07_stocks.csv'
+    akshare_dir = r'E:\Develop\Repos\pythonProject\stock\akShare\data\basic_info\stocks'
     tickflow_dir = r'E:\Develop\Repos\pythonProject\stock\tickflowDir\data\basic_info\stocks'
-    output_dir = r'E:\Develop\Repos\pythonProject\stock\tickflowDir\data\comparison'
+    output_dir = r'E:\Develop\Repos\pythonProject\stock\tickflowDir\data\stock_comparison_result'
     
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)
@@ -92,7 +116,8 @@ def main():
     print("开始对比股票数据...")
     print("=" * 60)
     
-    # 1. 加载 akShare 数据
+    # 1. 加载 akShare 数据（自动获取最新CSV）
+    akshare_csv = get_latest_akshare_csv(akshare_dir)
     print(f"\n1. 加载 akShare 数据：{akshare_csv}")
     akshare_stocks = load_akshare_stocks(akshare_csv)
     print(f"   ✓ akShare 共有 {len(akshare_stocks)} 只股票")
