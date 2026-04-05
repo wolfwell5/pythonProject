@@ -154,7 +154,8 @@ class BatchKlineFetcher:
                 f.write("-" * 70 + "\n")
                 f.write(f"开始执行时间：{exec_start_time.strftime('%Y-%m-%d %H:%M:%S')}\n")
                 f.write(f"结束执行时间：{exec_end_time.strftime('%Y-%m-%d %H:%M:%S')}\n")
-                f.write(f"总计耗时：{exec_duration:.2f} 秒\n")
+                f.write(f"总计耗时：{exec_duration:.2f} 秒, 折合{exec_duration / 60:.2f} 分钟")
+                f.write(f"平均速度：{self.total_count / exec_duration:.1f} 只/秒\n")
                 f.write("-" * 70 + "\n\n")
 
             f.write("统计信息:\n")
@@ -360,6 +361,12 @@ def incremental_update_multithread():
         max_workers=len(api_keys)  # 9 个线程
     )
 
+    # batch.fetch_batch_multithread(
+    #     all_stock_codes,
+    #     incremental=False,  # 全量模式
+    #     count=10000
+    # )
+
     # 记录结束时间并生成日志
     func_end_time = datetime.now()
     func_duration = (func_end_time - func_start_time).total_seconds()
@@ -382,5 +389,5 @@ if __name__ == '__main__':
 
     print(f"\n开始执行时间：{start_time.strftime('%Y-%m-%d %H:%M:%S')}")
     print(f"结束执行时间：{end_time.strftime('%Y-%m-%d %H:%M:%S')}")
-    print(f"总计耗时：{duration:.2f} 秒")
+    print(f"总计耗时：{duration:.2f} 秒, 折合{duration / 60:.2f} 分钟")
     print("CSV 文件保存在：tickflowDir/data/single_stock/{股票代码}/")
