@@ -4,3 +4,4 @@
 /stock/tickflowDir/data/
 /stock/tickflowDir/logs/
 /stock/akShare/十大流通股东/parsed_datasource/
+/stock/akShare/data/basic_info/stocks/*.csv
