@@ -20,7 +20,7 @@ def get_caller_filename_absolute_path():
     # 当前帧：get_caller_filename_absolute_path
     # f_back: generate_file_name
     # f_back.f_back: csv.py 中的方法
-    # f_back.f_back.f_back: 真正的调用者 (如 1get_top10_free_holders.py)
+    # f_back.f_back.f_back: 真正的调用者 (如 get_top10_free_holders.py)
     frame = inspect.currentframe().f_back.f_back.f_back.f_back
     file_path = frame.f_code.co_filename
     del frame

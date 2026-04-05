@@ -141,7 +141,7 @@ import akshare as ak
 
 # 热搜股票  https://akshare.akfamily.xyz/data/stock/stock.html#id374
 # 组合文件夹路径和文件名
-# stock_hot_search_baidu_df = ak.stock_hot_search_baidu(symbol="A股", date="20250207", time="今日")
+# stock_hot_search_baidu_df = ak.stock_hot_search_baidu(symbol="A股 test", date="20250207", time="今日")
 # stock_hot_search_baidu_df.to_csv(generate_file_name('热搜股票 百度'), index=False)
 
 # 盘口异动 https://akshare.akfamily.xyz/data/stock/stock.html#id376
