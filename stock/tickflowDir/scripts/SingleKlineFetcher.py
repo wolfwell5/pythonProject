@@ -79,6 +79,10 @@ def save_to_csv(df, code, data_dir=None):
     if data_dir is None:
         data_dir = get_default_data_dir(code)
 
+    # 删除无用字段
+    if 'trade_time' in df.columns:
+        df = df.drop(columns=['trade_time'])
+
     # 格式化数值
     format_numeric_columns(df)
 
@@ -274,12 +278,22 @@ class SingleKlineFetcher:
         # 读取现有数据
         df_existing = pd.read_csv(latest_file)
 
+        # 删除无用字段（从两个 DataFrame 中删除）
+        if 'trade_time' in df_existing.columns:
+            df_existing = df_existing.drop(columns=['trade_time'])
+        if 'trade_time' in df_new.columns:
+            df_new = df_new.drop(columns=['trade_time'])
+
         # 合并数据
         df_combined = pd.concat([df_existing, df_new], ignore_index=True)
         df_sorted = df_combined.sort_values('trade_date').reset_index(drop=True)
 
         # 去重（防止重复数据）
         df_unique = df_sorted.drop_duplicates(subset=['trade_date'], keep='last')
+
+        # 再次确保删除 trade_time（防止 concat 后残留）
+        if 'trade_time' in df_unique.columns:
+            df_unique = df_unique.drop(columns=['trade_time'])
 
         # 格式化并保存
         format_numeric_columns(df_unique)
