@@ -24,24 +24,6 @@ from tickflow import TickFlow
 # 工具函数 - 简单、纯粹、可复用
 # ============================================================
 
-def get_kline_data(code, api_key=None, count=10000, period="1d", adjust='forward_additive'):
-    """
-    获取单只股票 K 线数据
-    
-    Args:
-        code: 股票代码，如 '300164.SZ'
-        api_key: TickFlow API 密钥，默认使用内置密钥
-        count: 获取数据条数，默认 10000
-        period: K 线周期，默认 '1d' (日 K)
-        adjust: 复权类型，默认 'forward_additive' (前复权)
-        
-    Returns:
-        DataFrame: K 线数据
-    """
-    api_key = api_key or "tk_70e08101458040caa8fe082bf28587ac"
-    tf = TickFlow(api_key=api_key, max_retries=5, timeout=60.0)
-    return tf.klines.get(code, period=period, adjust=adjust, count=count, as_dataframe=True)
-
 
 def filter_by_date(df, start_date, end_date=None):
     """
@@ -208,6 +190,8 @@ class SingleKlineFetcher:
             api_key: TickFlow API 密钥，默认使用内置密钥
         """
         self.api_key = api_key or "tk_70e08101458040caa8fe082bf28587ac"
+        # 创建并缓存 TickFlow 实例，避免重复创建
+        self.tf = TickFlow(api_key=self.api_key, max_retries=5, timeout=60.0)
 
     def fetch(self, code, start_date=None, end_date=None, count=10000,
               period="1d", adjust='forward_additive', save=True,
@@ -244,8 +228,8 @@ class SingleKlineFetcher:
                 last_date = datetime.strptime(start_date, '%Y-%m-%d')
                 start_date = (last_date + timedelta(days=1)).strftime('%Y-%m-%d')
 
-        # 获取数据
-        df = get_kline_data(code, self.api_key, count, period, adjust)
+        # 获取数据（使用缓存的 TickFlow 实例）
+        df = self.tf.klines.get(code, period=period, adjust=adjust, count=count, as_dataframe=True)
 
         # 日期过滤
         if start_date:
