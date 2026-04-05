@@ -8,7 +8,6 @@
 
 import os
 import sys
-import time
 from datetime import datetime, timedelta
 
 # 添加 stock 目录到 Python 路径
@@ -116,7 +115,6 @@ def get_default_data_dir(code):
     Returns:
         str: 数据目录路径
     """
-    script_dir = os.path.dirname(os.path.abspath(__file__))
     tickflow_dir = os.path.dirname(script_dir)
     data_dir = os.path.join(tickflow_dir, 'data', 'single_stock', code)
     os.makedirs(data_dir, exist_ok=True)

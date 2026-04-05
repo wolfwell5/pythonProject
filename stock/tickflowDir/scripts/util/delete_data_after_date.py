@@ -89,11 +89,12 @@ def delete_after_date(code, cutoff_date):
 def main():
     """主函数"""
     print("=" * 70)
-    stock_num_to_delete = 60
-    print("删除前  只股票在指定日期之后的所有数据")
-    print("=" * 70)
 
+    stock_num_to_delete = 50
     cutoff_date = '2026-03-24'
+
+    print(f"删除前 {stock_num_to_delete} 只股票在指定日期之后的所有数据")
+    print("=" * 70)
 
     # 验证日期格式
     try:
@@ -138,5 +139,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-    # 明确退出程序
-    sys.exit(0)
