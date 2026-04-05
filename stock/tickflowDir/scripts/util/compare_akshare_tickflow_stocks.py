@@ -105,9 +105,9 @@ def save_missing_stocks(missing_codes, all_stocks, output_file):
 
 def main():
     # 文件路径
-    akshare_dir = r'E:\Develop\Repos\pythonProject\stock\akShare\data\basic_info\stocks'
-    tickflow_dir = r'E:\Develop\Repos\pythonProject\stock\tickflowDir\data\basic_info\stocks'
-    output_dir = r'E:\Develop\Repos\pythonProject\stock\tickflowDir\data\stock_comparison_result'
+    akshare_dir = r'/akShare/data/basic_info/stocks'
+    tickflow_dir = r'/tickflowDir/data/basic_info/stocks'
+    output_dir = r'/tickflowDir/data/stock_comparison_result'
     
     # 创建输出目录
     os.makedirs(output_dir, exist_ok=True)
