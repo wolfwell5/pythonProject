@@ -28,4 +28,5 @@ def main():
 
 if __name__ == "__main__":
     main()
-    # fetch_data('20180930')
+    # fetch_data("20251231")
+
